@@ -308,7 +308,7 @@ const HomePage: React.FC = () => {
             <MintNftHeader>Mint is Live!</MintNftHeader>
             <ul>
               <li><a target="_blank" href="https://etherscan.io/address/0x54FFC76838E79E7Fd9aA52FbDC49F2671743d305">Etherscan</a></li>
-              <li><a target="_blank" href="https://opensea.io/assets?search[query]=0x54FFC76838E79E7Fd9aA52FbDC49F2671743d305">Open Sea</a></li>
+              <li><a target="_blank" href="https://opensea.io/collection/pac-dao-phatcat">Open Sea</a></li>
               <li><a target="_blank" href="https://github.com/pacdao/mock-congress/">Github</a></li>
             </ul>
             <p>
