@@ -325,7 +325,7 @@ const HomePage: React.FC = () => {
             <br />
             {isLoadingBatchPrice && <ClipLoader color="#ffffff" loading={isLoadingBatchPrice} size={10}/>}
             {!isLoadingBatchPrice && (<span id="compute">Cost: {batchPrice} ETH</span>)}
-            <MintNftButton disabled={!batchCount} onClick={() => mintBatch(Number(batchCount))} variant="secondary" enabled={!isLoadingBatchPrice}>
+            <MintNftButton onClick={() => mintBatch(Number(batchCount))} variant="secondary" enabled={!isLoadingBatchPrice && Number(batchCount)!==0}>
               Claim Pack
             </MintNftButton>
           </MintNftWrapper>
