@@ -43,6 +43,8 @@ export type Form = {
   comment: string;
 };
 
+const MAX_BATCH_MINT = 10;
+
 const HomePage: React.FC = () => {
   const searchByNameInputRef = React.useRef<HTMLInputElement>(null);
   const searchByStateInputRef = React.useRef<HTMLInputElement>(null);
@@ -88,19 +90,21 @@ const HomePage: React.FC = () => {
     if (batchNum.toString() === batchCount) {
       return;
     }
-    setBatchCount(batchNum.toString());
     if (batchNum === 0){
+      setBatchCount(batchNum.toString());
       setBatchPrice("0");
       return;
     }
-    setIsLoadingBatchPrice(true);
+    batchNum = Math.min(batchNum, MAX_BATCH_MINT);
     try {
       if (signerContract && signer && batchNum !== undefined) {
+        setBatchCount(batchNum.toString());
+        setIsLoadingBatchPrice(true);
         const batchPrice: BigNumber = await signerContract.mint_batch_price(batchNum, address, { gasLimit: 10000000 });
         const parsedBatchPrice = ethers.utils.formatEther(batchPrice);
         setBatchPrice(parsedBatchPrice);
       } else {
-        throw new Error("Missing params signerContract or signer or batchNum");
+        return;
       }
     } catch (error) {
       console.error(error);
@@ -192,6 +196,13 @@ const HomePage: React.FC = () => {
       setSignerContract(signer);
     }
   }, [setSignerContract, signer]);
+
+  React.useEffect(() => {
+    async function setDefaultClaims() {
+      await updateBatchCount(MAX_BATCH_MINT);
+    }
+    setDefaultClaims();
+  }, [address, contract, provider, walletLoaded, signerContract, signer]);
 
   return (
     <Wrapper headerHeight={headerHeight}>
@@ -325,7 +336,7 @@ const HomePage: React.FC = () => {
             <br />
             {isLoadingBatchPrice && <ClipLoader color="#ffffff" loading={isLoadingBatchPrice} size={10}/>}
             {!isLoadingBatchPrice && (<span id="compute">Cost: {batchPrice} ETH</span>)}
-            <MintNftButton onClick={() => mintBatch(Number(batchCount))} variant="secondary" enabled={!isLoadingBatchPrice && Number(batchCount)!==0}>
+            <MintNftButton onClick={() => mintBatch(Number(batchCount))} variant="secondary" disabled={isLoadingBatchPrice || Number(batchCount)===0}>
               Claim Pack
             </MintNftButton>
           </MintNftWrapper>
