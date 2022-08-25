@@ -25,7 +25,7 @@ export function senatorRepresentativeDescription(seat: string, state: State) {
 }
 
 export function keepFirstDecimal(s: string) {
-  return s.split('').reverse().join('').replace(/[^-?0-9.]|\.(?=.*\.)/g, '').split('').reverse().join('');
+  return s.split('').reverse().join('').replace(/[^0-9.]|\.(?=.*\.)/g, '').split('').reverse().join('');
 };
 
 export function getNumPlacesAfterDecimal(s: string) {
