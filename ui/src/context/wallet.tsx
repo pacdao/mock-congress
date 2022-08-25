@@ -68,6 +68,7 @@ const WalletProvider: FC<Props> = ({ children }) => {
       if (state.provider) {
         const accounts = await state.provider.listAccounts();
         const address = accounts[0];
+        window.location.reload();
 
         if (address) {
           dispatch({ address });
