@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmPR3UKHZTAFGSFAgKUpoQC9MscLeWMkjvDbXzbfqqwbgD",
+    "name": "Tony Gonzales TX-23 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "TX"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "TX-23"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark-Grey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tall Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Mouth Smiling"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Generic Male"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Brown"
+        }
+    ]
+}

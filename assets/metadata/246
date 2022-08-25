@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmTSwsq9xeQeE4NDgHL8frKZCGAyAa1siingLa2maD1ksj",
+    "name": "Andy Harris MD-1 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "MD"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "MD-1"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "White"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Dark Grey Beard"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk Teeth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Receding Hair"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "White"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmWAjqxuxr2CxxEMWw8d5qGedW74isqsDC72gcXjtQRhwz",
+    "name": "Adrian Smith NE-3 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "NE"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "NE-3"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light-Grey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tiny"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Turquose"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk Teeth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Generic Male"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Black"
+        }
+    ]
+}

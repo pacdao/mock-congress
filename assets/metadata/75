@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmZGcY3jfNngr5uK4tkhgmcUxew91yCmuXZTaBk6Nwfv34",
+    "name": "John Rutherford FL-4 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "FL"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "FL-4"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow-Orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Heavy Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Moustache",
+            "value": "Light Grey"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Generic Male"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "White"
+        }
+    ]
+}

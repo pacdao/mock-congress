@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmQstgkLombcDjE3Tt4GhyjRkwWoEeMNG1RA8BrEMwCPHd",
+    "name": "Kevin Brady TX-8 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "TX"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "TX-8"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Mid-Grey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Almond"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Hazel"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Normal Tooth Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Head Fuzz"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "White Top"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmYCBvixDQiuUZnisM5m57Vn5Dd5ndWSPpJ759MMeZDdow",
+    "name": "Joni Ernst IA-SEN (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "IA"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "Senate"
+        },
+        {
+            "trait_type": "Score",
+            "value": 7.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Almond"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Thin Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Bob"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Light Grey"
+        }
+    ]
+}

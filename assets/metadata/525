@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmW5pW32E7GptCrkvxpYwSZE4mSufD5zZiBPz9DWoeuTWw",
+    "name": "Lee Zeldin NY-1 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "NY"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "NY-1"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark-Grey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Spidery"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk Teeth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Receding Hair"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Black"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://bafybeig2aruaqkkpe4isvr5xvzu7go7zw4kfsr3ynozytsspad2pz6mvwe",
+    "name": "Chuck Grassley IA-SEN (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "IA"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "Senate"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Heavy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Spidery"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Thin Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Grey Round Glasses"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Receding Hair"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "White"
+        }
+    ]
+}

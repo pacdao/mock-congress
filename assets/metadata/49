@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmfPpjRz5rJ2SVKGteP5jPUyx25WWaU3BZTzHJad3LTZPr",
+    "name": "Andy Barr KY-6 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "KY"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "KY-6"
+        },
+        {
+            "trait_type": "Score",
+            "value": 7.5,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Magenta"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Heavy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Almond"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Mouth Smiling"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Wavy Hair"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Light Brown"
+        }
+    ]
+}

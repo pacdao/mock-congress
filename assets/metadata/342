@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmQBeFxLDM7zMvjxex1y3hTBuERdgawhbsnKQnD7ocMDnG",
+    "name": "Kyrsten Sinema AZ-SEN (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "AZ"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "Senate"
+        },
+        {
+            "trait_type": "Score",
+            "value": 4.56,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool-Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Windcard"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Light Red"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Blue Round Glasses"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Bob"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Yellow"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmVXz8Y6BjL3hZayJc1Y3ggcPi97tdBncMyEhV6tqmG8Tb",
+    "name": "Mike Carey OH-15 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "OH"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "OH-15"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tiny"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk Teeth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Generic Male"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Grey"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmZPtLdqRFyZsg2tsrEgeWn5XKHNRtYiDdHYXSpx9d5AvJ",
+    "name": "Adam Kinzinger IL-16 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "IL"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "IL-16"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Mid-Grey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Windcard"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Mouth Smiling"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Generic Male"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Brown"
+        }
+    ]
+}

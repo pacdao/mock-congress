@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://Qmazyz12aLSj7GWvLuJE6zsmS55ALk59tAnxqeiueWLNfv",
+    "name": "Debbie Lesko AZ-8 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "AZ"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "AZ-8"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wiggly"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nearly Black"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Dark Grey"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Serious Smile"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Female Long"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Yellow"
+        }
+    ]
+}

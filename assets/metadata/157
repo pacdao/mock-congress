@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmQzwp3zSyxbcmhrTcA8zVCD7Lj9iMn8eZegaW8NgzYcrk",
+    "name": "Michael McCaul TX-10 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "TX"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "TX-10"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.5,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Windcard"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk Teeth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Wavy Hair"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "White"
+        }
+    ]
+}

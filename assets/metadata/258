@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://Qmaf3QHNmRzwEAJ3rnVg2JFDG3BiDEAsi6a3vBs6VAX8wd",
+    "name": "Andy Biggs AZ-5 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "AZ"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "AZ-5"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Magenta"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Spidery"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Turquose"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Head Fuzz"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "White Top"
+        }
+    ]
+}

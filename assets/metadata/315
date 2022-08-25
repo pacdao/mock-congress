@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://bafybeibeuu53dlt7zbekqll75q4edssp5rsnv4eg3cotsafvybl3rdbgz4",
+    "name": "Raphael Warnock GA-SEN (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "GA"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "Senate"
+        },
+        {
+            "trait_type": "Score",
+            "value": 6.57,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool-Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Dark Grey"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Med Orange Beard"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Normal Tooth Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Red Heart Glasses"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Head Fuzz"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Black Top"
+        }
+    ]
+}

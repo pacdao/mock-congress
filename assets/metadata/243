@@ -1,0 +1,89 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://bafybeicd3uynnjiefjxna76kduiakhhuhau5lvngvcq7qevyuicpokvtue",
+    "name": "Rashida Tlaib MI-13 (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "MI"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "MI-13"
+        },
+        {
+            "trait_type": "Score",
+            "value": 1.4,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool-Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tiny"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Negative Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Red Heart Glasses"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Female Long"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Grey"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmTrQrzcZSRep2dRSNaJ63N5bA7mRvwT642xFjg9GQQoo4",
+    "name": "Nanette Barragan CA-44 (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "CA"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "CA-44"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nearly Black"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Serious Smile"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Female Long"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Brown"
+        }
+    ]
+}

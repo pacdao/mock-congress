@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmPyXPtfYnUY9ikozG6pcotjDsPrp3QDDxRw39VZm5y92W",
+    "name": "William Timmons SC-4 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "SC"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "SC-4"
+        },
+        {
+            "trait_type": "Score",
+            "value": 6.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Large Wonky Round"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nearly Black"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "White"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Dark Grey Beard"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk Teeth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Light Red"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Head Fuzz"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Black Top"
+        }
+    ]
+}

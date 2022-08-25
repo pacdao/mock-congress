@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmURTkkE8Y5siVsB3LGAvRxJjZoiCL6C5x8FNasZiGA16U",
+    "name": "Cory Booker NJ-SEN (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "NJ"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "Senate"
+        },
+        {
+            "trait_type": "Score",
+            "value": 6.4,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Warm-Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Almond"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Mouth Smiling"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Head Fuzz"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "White Top"
+        }
+    ]
+}

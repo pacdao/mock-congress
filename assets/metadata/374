@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmTZQQBtDR7VLbUfcaEmg3tSZEdE2RZB4xTSVPkyuLcCyx",
+    "name": "Amy Klobuchar MN-SEN (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "MN"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "Senate"
+        },
+        {
+            "trait_type": "Score",
+            "value": 6.5,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wiggly"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Female Short"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Grey"
+        }
+    ]
+}

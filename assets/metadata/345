@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmXkY8EKbLCG47W4DVaaSC8fRt2dff1HBVrK3xVYBreqv6",
+    "name": "Maxine Waters CA-43 (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "CA"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "CA-43"
+        },
+        {
+            "trait_type": "Score",
+            "value": 1.43,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool-Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Heavy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Spidery"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Negative Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Bob"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Red"
+        }
+    ]
+}

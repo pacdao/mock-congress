@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmSWmusVdNTT8rQjwzWnmRSQWb8AtViDAMSYecJxwDbsD8",
+    "name": "Lauren Boebert CO-3 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "CO"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "CO-3"
+        },
+        {
+            "trait_type": "Score",
+            "value": 2.4,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Hazel"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Red Heart Glasses"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Female Long"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Brown"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmeX466DJ1fUJpnMHBvsM2aEQwt4AKQ5jscebxhP56zm5d",
+    "name": "Jackie Walorski IN-2 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "IN"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "IN-2"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Almond"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Hazel"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Light Grey"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Thin Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Red Heart Glasses"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Bob"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Light Brown"
+        }
+    ]
+}

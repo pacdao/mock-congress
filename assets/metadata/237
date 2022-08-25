@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmcuwTzjifEPsFJhEokPbEyF9ysfUkwn1YfmUbs7wqx7bw",
+    "name": "Mike Braun IN-SEN (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "IN"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "Senate"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Spidery"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Hazel"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Normal Tooth Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Grey Round Glasses"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Receding Hair"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Grey"
+        }
+    ]
+}

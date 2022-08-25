@@ -1,0 +1,89 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmNdXBc26SMz2Ga3rxAnb4YHje8uVLf1hS8G4fqxUmhh2T",
+    "name": "Alcee Hastings FL-20 (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "FL"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "FL-20"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tall Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nearly Black"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Dark Grey Beard"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Mouth Smiling"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Head Fuzz"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "White Top"
+        }
+    ]
+}

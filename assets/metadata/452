@@ -1,0 +1,93 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmYKFNqdQReDbcXCuKN4sHA24W4kNgnbSXF9JraV3KooSQ",
+    "name": "Patrick McHenry NC-10 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "NC"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "NC-10"
+        },
+        {
+            "trait_type": "Score",
+            "value": 9.4,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Neon-Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nearly Black"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "White"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Med Grey"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Serious Smile"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Blue Round Glasses"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Generic Male"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Green Crypto Cap"
+        },
+        {
+            "trait_type": "Texture",
+            "value": "Rare"
+        }
+    ]
+}

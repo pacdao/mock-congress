@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmVCWKC3TRQQ33yWNpH9VAyarXZsNeZuyYAdUjz7gPq1X7",
+    "name": "Scott Perry PA-10 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "PA"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "PA-10"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow-Orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tall Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Dark Grey"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Generic Male"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Grey"
+        }
+    ]
+}

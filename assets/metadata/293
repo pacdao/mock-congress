@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmXrrHVoELMqcHJybtEzbsEnq11fTAQE16RVcT5euuDjTc",
+    "name": "Troy Nehls TX-22 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "TX"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "TX-22"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow-Orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Spidery"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Thin Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Wavy Hair"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Yellow"
+        }
+    ]
+}

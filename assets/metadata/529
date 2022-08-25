@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmQpe4N1YUiLymEVcJKtU6b45GhQ7jtiDtyX3HzHLTvGdi",
+    "name": "Rick Scott FL-SEN (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "FL"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "Senate"
+        },
+        {
+            "trait_type": "Score",
+            "value": 4.2,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Heavy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Large Wonky Round"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Serious Smile"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Head Fuzz"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "White Top"
+        }
+    ]
+}

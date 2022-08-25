@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmaR2odxKA9Z5BPG5G75v8UELixEZgpZZ4tY5REkCjBMC6",
+    "name": "John Joyce PA-13 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "PA"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "PA-13"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Mid-Grey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tiny"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Dark Grey"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Thin Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Receding Hair"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Yellow"
+        }
+    ]
+}

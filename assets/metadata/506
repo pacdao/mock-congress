@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmQ9B5b4Ja8oddG9jrTghoRkwFZztzDeFbrA9pxnEctj8G",
+    "name": "Bill Posey FL-8 (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "FL"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "FL-8"
+        },
+        {
+            "trait_type": "Score",
+            "value": 2.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow-Orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tall Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Head Fuzz"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Black Top"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmbSyrKQ3MTeFHgtAdeHM6QHXMZsAzKwPV5rdjxfh1tPJm",
+    "name": "Linda Sanchez CA-38 (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "CA"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "CA-38"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool-Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Spidery"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nearly Black"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Serious Smile"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Female Long"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Grey"
+        }
+    ]
+}

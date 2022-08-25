@@ -1,0 +1,89 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmU8TmgztDwetJBFcjNU81GWXyf8EaJTcP8iAswuCHSrnM",
+    "name": "Al Green TX-9 (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "TX"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "TX-9"
+        },
+        {
+            "trait_type": "Score",
+            "value": 2.25,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tall Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Dark Brown Beard"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Serious Smile"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Wavy Hair"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Black"
+        }
+    ]
+}

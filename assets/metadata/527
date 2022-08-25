@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmXWouYU3ekjQGmrj5ZH3qmGGuffNCDYFjpk86atQgdDsh",
+    "name": "Jan Schakowsky IL-9 (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "IL"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "IL-9"
+        },
+        {
+            "trait_type": "Score",
+            "value": 1.5,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool-Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wiggly"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Negative Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Female Short"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Dark Brown"
+        }
+    ]
+}

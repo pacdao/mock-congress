@@ -1,0 +1,81 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmeFPqBWESpoNb5Y2LgGKgbQ2tv5m9qo7Kz4dpGakFPVEb",
+    "name": "Hank Johnson GA-4 (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "GA"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "GA-4"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark-Grey"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tall Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Dark Grey"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Normal Tooth Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Generic Male"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Red"
+        }
+    ]
+}

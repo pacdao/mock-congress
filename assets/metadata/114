@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://bafybeicn54kbs3sfektq5723n7wpijl5jjzh5bayglmzl57xzjldelaqke",
+    "name": "Sheila Jackson Lee TX-18 (D)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "TX"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Democrat"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "House"
+        },
+        {
+            "trait_type": "District",
+            "value": "TX-18"
+        },
+        {
+            "trait_type": "Score",
+            "value": 7.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Mouth Smiling"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Female Short"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Black"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmcDo8Lym4pm2pcXVyC8k2A3tfiPYarKcECYFgFu4rFKRM",
+    "name": "Cindy Hyde-Smith MS-SEN (R)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "MS"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Republican"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "Senate"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Peach"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Lidded"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Cardigan",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Smirk Teeth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Light Red"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Bob"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Yellow"
+        }
+    ]
+}

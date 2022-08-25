@@ -1,0 +1,85 @@
+{
+    "description": "PAC DAO PHATCAT 2022",
+    "external_url": "https://pac.xyz/",
+    "image": "ipfs://QmXsWmYkQFJ7JTgodwbLmXBC41dddKbJWvphYc9uoRrfXS",
+    "name": "Angus King ME-SEN (I)",
+    "attributes": [
+        {
+            "trait_type": "State",
+            "value": "ME"
+        },
+        {
+            "trait_type": "Party",
+            "value": "Independent"
+        },
+        {
+            "trait_type": "Chamber",
+            "value": "Senate"
+        },
+        {
+            "trait_type": "Score",
+            "value": 5.0,
+            "max_value": 10.0
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool-Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Wrinkles",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wiggly"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Jacket",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Moustache",
+            "value": "White"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Thin Mouth"
+        },
+        {
+            "trait_type": "Mouth Color",
+            "value": "Light Red"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Wavy Hair"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Yellow"
+        }
+    ]
+}

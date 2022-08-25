@@ -1,0 +1,545 @@
+Name,id,Recognition,State,Seat,Party,Gender,isdupe,DNA,Hair Final,Hairstyle Final,Eyebrows,Mouth,Ears,Facial Hair,Face,Misc,Eyes,Skin Shade,Wrinkles,Incumbent
+Don Young,8,0.784,AK,1,R,M,0,MGrayReceding HairlineNormalNormalNormalBeardNormalGlassesBlueWhiteYes,Gray,Receding Hairline,Normal,Normal,Normal,Beard,Normal,Glasses,Blue,White,Yes,Y
+Lisa Murkowski,442,0.913,AK,SEN,R,F,0,FDark BrownFemale BobNormalThin LipsNormalNoneCheeksNoneBlueWhiteYes,Dark Brown,Female Bob,Normal,Thin Lips,Normal,None,Cheeks,None,Blue,White,Yes,Y
+Dan Sullivan,441,0.78,AK,SEN,R,M,0,MGrayReceding HairlineNormalSerious SmileNormalNoneNormalNoneBlueWhiteMild,Gray,Receding Hairline,Normal,Serious Smile,Normal,None,Normal,None,Blue,White,Mild,Y
+Jerry Carl,1,0.566,AL,1,R,M,0,MWhiteReceding HairlineNormalNormalBigNoneNormalGlassesBlueWhiteMild,White,Receding Hairline,Normal,Normal,Big,None,Normal,Glasses,Blue,White,Mild,Y
+Barry Moore,2,0.577,AL,2,R,M,0,MGrayGeneric Male MediumNormalSmirkNormalNoneNormalNoneBrownOrangeNo,Gray,Generic Male Medium,Normal,Smirk,Normal,None,Normal,None,Brown,Orange,No,Y
+Mike Rogers,3,0.569,AL,3,R,M,0,MBrownGeneric Male MediumNormalBig SmileBigNoneChinNoneGreenWhiteNo,Brown,Generic Male Medium,Normal,Big Smile,Big,None,Chin,None,Green,White,No,Y
+Robert Aderholt,4,0.585,AL,4,R,M,0,MNoneBaldNormalSerious SmileNormalNoneNormalNoneBrownWhiteNo,None,Bald,Normal,Serious Smile,Normal,None,Normal,None,Brown,White,No,Y
+Mo Brooks,5,0.4,AL,5,R,M,0,MWhiteGeneric Male MediumProminentSmirkBigNoneCheeksNoneBrownWhiteMild,White,Generic Male Medium,Prominent,Smirk,Big,None,Cheeks,None,Brown,White,Mild,Y
+Gary Palmer,6,0.527,AL,6,R,M,0,MDark GrayReceding HairlineNormalSmirkNormalNoneNormalNoneHazelWhiteYes,Dark Gray,Receding Hairline,Normal,Smirk,Normal,None,Normal,None,Hazel,White,Yes,Y
+Terri Sewell,7,0.755,AL,7,D,F,0,FBlackFemale LongNormalBig SmileNormalNoneChinNoneBrownBlackMild,Black,Female Long,Normal,Big Smile,Normal,None,Chin,None,Brown,Black,Mild,Y
+Tommy Tuberville,542,0.853,AL,SEN,R,M,0,MGrayReceding HairlineNormalThin LipsBigNoneCheeksNoneBlueOrangemild,Gray,Receding Hairline,Normal,Thin Lips,Big,None,Cheeks,None,Blue,Orange,mild,Y
+Richard Shelby,541,0.784,AL,SEN,R,M,0,MBrownReceding HairlineNormalNo SmileNormalNoneNormalNoneHazelWhiteMild,Brown,Receding Hairline,Normal,No Smile,Normal,None,Normal,None,Hazel,White,Mild,Y
+Rick Crawford,18,0.486,AR,1,R,M,0,MLight BrownGeneric ShortNormalNormalNormalBeardNormalGlassesBrownOrangeNo,Light Brown,Generic Short,Normal,Normal,Normal,Beard,Normal,Glasses,Brown,Orange,No,Y
+French Hill,19,0.683,AR,2,R,M,0,MDark GrayGeneric ShortNormalBig SmileNormalNoneNormalNoneBrownOrangeYes,Dark Gray,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Orange,Yes,Y
+Steve Womack,20,0.528,AR,3,R,M,0,MGrayGeneric ShortNormalNo SmileBigNoneChinNoneAmberWhiteMild,Gray,Generic Short,Normal,No Smile,Big,None,Chin,None,Amber,White,Mild,Y
+Bruce Westerman,21,0.523,AR,4,R,M,0,MDark GrayGeneric ShortNormalSmirkNormalNoneNormalNoneGreenWhiteNo,Dark Gray,Generic Short,Normal,Smirk,Normal,None,Normal,None,Green,White,No,Y
+Tom Cotton,446,0.853,AR,SEN,R,M,0,MDark BrownGeneric ShortNormalSerious SmileNormalNoneChinNoneBrownWhiteNo,Dark Brown,Generic Short,Normal,Serious Smile,Normal,None,Chin,None,Brown,White,No,Y
+John Boozman,547,0.642,AR,SEN,R,M,0,MBrownReceding HairlineNormalSmirkNormalNoneNormalGlasseshazelwhiteMild,Brown,Receding Hairline,Normal,Smirk,Normal,None,Normal,Glasses,hazel,white,Mild,Y
+Tom O'Halleran,9,0.68,AZ,1,D,M,0,MGrayBaldNormalBig SmileNormalNoneNormalNoneBlueOrangeYes,Gray,Bald,Normal,Big Smile,Normal,None,Normal,None,Blue,Orange,Yes,Y
+Ann Kirkpatrick,10,0.674,AZ,2,D,F,0,FBrownFemale BobNormalSmirkNormalNoneNormalNoneBlueWhiteYes,Brown,Female Bob,Normal,Smirk,Normal,None,Normal,None,Blue,White,Yes,Y
+Raul Grijalva,11,0.66,AZ,3,D,M,0,MDark GrayReceding HairlineNormalNormalNormalGoateeNormalGlassesBrownOrangeYes,Dark Gray,Receding Hairline,Normal,Normal,Normal,Goatee,Normal,Glasses,Brown,Orange,Yes,Y
+Paul Gosar,12,0.695,AZ,4,R,M,0,MDark GrayGeneric Male MediumNormalBig SmileBigNoneNormalNoneBlueWhiteYes,Dark Gray,Generic Male Medium,Normal,Big Smile,Big,None,Normal,None,Blue,White,Yes,Y
+Andy Biggs,13,0.68,AZ,5,R,M,0,MGrayReceding HairlineNormalBig SmileBigNoneNormalNoneHazelOrangeYes,Gray,Receding Hairline,Normal,Big Smile,Big,None,Normal,None,Hazel,Orange,Yes,Y
+David Schweikert,14,0.58,AZ,6,R,M,0,MGrayReceding HairlineNormalNo SmileNormalNoneCheeksNoneGreenWhiteYes,Gray,Receding Hairline,Normal,No Smile,Normal,None,Cheeks,None,Green,White,Yes,Y
+Ruben Gallego,15,0.653,AZ,7,D,M,0,MBrownGeneric ShortNormalNormalNormalBeardNormalNoneBlueOrangeNo,Brown,Generic Short,Normal,Normal,Normal,Beard,Normal,None,Blue,Orange,No,Y
+Debbie Lesko,16,0.607,AZ,8,R,F,0,FLight BlondeFemale LongNormalBig SmileNormalNoneChinNoneBlueWhiteNo,Light Blonde,Female Long,Normal,Big Smile,Normal,None,Chin,None,Blue,White,No,Y
+Greg Stanton,17,0.574,AZ,9,D,M,0,MBrownGeneric Male MediumNormalSerious SmileBigNoneNormalNoneAmberWhiteMild,Brown,Generic Male Medium,Normal,Serious Smile,Big,None,Normal,None,Amber,White,Mild,Y
+Kyrsten Sinema,545,0.913,AZ,SEN,D,F,0,FLight BlondeFemale BobNormalBig SmileNormalNoneCheeksGlassesBrownwhiteno,Light Blonde,Female Bob,Normal,Big Smile,Normal,None,Cheeks,Glasses,Brown,white,no,Y
+Mark Kelly,448,0.867,AZ,SEN,D,M,0,MNoneBaldNormalSerious SmileNormalNoneNormalNoneBlueWhiteMild,None,Bald,Normal,Serious Smile,Normal,None,Normal,None,Blue,White,Mild,Y
+Doug LaMalfa,22,0.588,CA,1,R,M,0,MDark GrayGeneric ShortNormalNormalNormalGoateeNormalNoneGreenWhiteNo,Dark Gray,Generic Short,Normal,Normal,Normal,Goatee,Normal,None,Green,White,No,Y
+Jared Huffman,23,0.523,CA,2,D,M,0,MGrayReceding HairlineNormalNormalNormalNoneNormalGlassesBlueWhiteNo,Gray,Receding Hairline,Normal,Normal,Normal,None,Normal,Glasses,Blue,White,No,Y
+John Garamendi,24,0.491,CA,3,D,M,0,MBrownGeneric ShortNormalBig SmileNormalNoneNormalNoneBlueWhiteYes,Brown,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Blue,White,Yes,Y
+Tom McClintock,25,0.542,CA,4,R,M,0,MGrayReceding HairlineNormalThin LipsNormalNoneCheeksNoneHazelWhiteYes,Gray,Receding Hairline,Normal,Thin Lips,Normal,None,Cheeks,None,Hazel,White,Yes,Y
+Mike Thompson,26,0.476,CA,5,D,M,0,MWhiteReceding HairlineNormalSerious SmileBigNoneChinNoneBlueWhiteYes,White,Receding Hairline,Normal,Serious Smile,Big,None,Chin,None,Blue,White,Yes,Y
+Doris Matsui,27,0.514,CA,6,D,F,0,FBlackFemale ShortNormalBig SmileNormalNoneNormalNoneBrownOrangeYes,Black,Female Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Orange,Yes,Y
+Ami Bera,28,0.499,CA,7,D,M,0,MBlackGeneric ShortNormalBig SmileNormalNoneNormalNoneBrownOrangeNo,Black,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Orange,No,Y
+Jay Obernolte,29,0.429,CA,8,R,M,0,MBrownGeneric ShortNormalNormalNormalNoneNormalGlassesBlueWhiteNo,Brown,Generic Short,Normal,Normal,Normal,None,Normal,Glasses,Blue,White,No,Y
+Jerry McNerney,30,0.444,CA,9,D,M,0,MWhiteReceding HairlineNormalNo SmileNormalNoneChinNoneBlueWhiteYes,White,Receding Hairline,Normal,No Smile,Normal,None,Chin,None,Blue,White,Yes,Y
+Josh Harder,31,0.539,CA,10,D,M,0,MDark BrownGeneric ShortProminentSmirkBigChinNormalNoneBrownWhiteNo,Dark Brown,Generic Short,Prominent,Smirk,Big,Chin,Normal,None,Brown,White,No,Y
+Mark DeSaulnier,32,0.429,CA,11,D,M,0,MGrayReceding HairlineNormalThin LipsBigNoneCheeksNoneBlueWhiteMild,Gray,Receding Hairline,Normal,Thin Lips,Big,None,Cheeks,None,Blue,White,Mild,Y
+Nancy Pelosi,33,0.861,CA,12,D,F,0,FBrownFemale BobNormalSerious SmileBigNoneCheeksNoneHazelTanYes,Brown,Female Bob,Normal,Serious Smile,Big,None,Cheeks,None,Hazel,Tan,Yes,Y
+Barbara Lee,34,0.691,CA,13,D,F,0,FBlackFemale ShortNormalNormalBigNoneChinNoneBrownBlackMild,Black,Female Short,Normal,Normal,Big,None,Chin,None,Brown,Black,Mild,Y
+Jackie Speier,35,0.48,CA,14,D,F,0,FBlondeFemale LongNormalBig SmileBigNoneNormalNoneHazelWhiteYes,Blonde,Female Long,Normal,Big Smile,Big,None,Normal,None,Hazel,White,Yes,Y
+Eric Swalwell,36,0.642,CA,15,D,M,0,MDark BlondeGeneric ShortProminentSerious SmileBigNoneChinNoneGreenWhiteNo,Dark Blonde,Generic Short,Prominent,Serious Smile,Big,None,Chin,None,Green,White,No,Y
+Jim Costa,37,0.457,CA,16,D,M,0,MWhiteGeneric Male MediumProminentBig SmileBigNoneNormalNoneHazelWhiteYes,White,Generic Male Medium,Prominent,Big Smile,Big,None,Normal,None,Hazel,White,Yes,Y
+Ro Khanna,38,0.606,CA,17,D,Mv,0,MvBrownGeneric ShortNormalBig SmileNormalNoneNormalNoneBrownBrownNo,Brown,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Brown,No,Y
+Anna Eshoo,39,0.472,CA,18,D,F,0,FBrownFemale ShortNormalBig SmileNormalNoneNormalNoneBrownOrangeYes,Brown,Female Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Orange,Yes,Y
+Zoe Lofgren,40,0.483,CA,19,D,F,0,FBlondeFemale ShortProminentNormalNormalNoneChinNoneBlueWhiteYes,Blonde,Female Short,Prominent,Normal,Normal,None,Chin,None,Blue,White,Yes,Y
+Jimmy Panetta,41,0.41,CA,20,D,M,0,MBlackReceding HairlineNormalBig SmileNormalNoneNormalNoneBrownWhiteYes,Black,Receding Hairline,Normal,Big Smile,Normal,None,Normal,None,Brown,White,Yes,Y
+David Valadao,42,0.591,CA,21,R,M,0,MDark BrownGeneric ShortNormalSmirkBigNoneChinNoneBrownWhiteMild,Dark Brown,Generic Short,Normal,Smirk,Big,None,Chin,None,Brown,White,Mild,Y
+Devin Nunes,43,0.648,CA,22,R,M,0,MBlackGeneric Male MediumProminentNormalNormalNoneCheeksNoneBrownWhiteNo,Black,Generic Male Medium,Prominent,Normal,Normal,None,Cheeks,None,Brown,White,No,Y
+Kevin McCarthy,44,0.749,CA,23,R,M,0,MWhiteGeneric Male MediumNormalNo SmileNormalNoneNormalNoneBrownWhiteNo,White,Generic Male Medium,Normal,No Smile,Normal,None,Normal,None,Brown,White,No,Y
+Salud Carbajal,45,0.393,CA,24,D,M,0,MDark GrayGeneric Male MediumNormalNormalNormalNoneNormalGlassesBrownBrownNo,Dark Gray,Generic Male Medium,Normal,Normal,Normal,None,Normal,Glasses,Brown,Brown,No,Y
+Mike Garcia,46,0.701,CA,25,R,M,0,MBlackReceding HairlineNormalNormalNormalNoneNormalNoneBrownOrangeYes,Black,Receding Hairline,Normal,Normal,Normal,None,Normal,None,Brown,Orange,Yes,Y
+Julia Brownley,47,0.453,CA,26,D,F,0,FWhiteFemale ShortNormalBig SmileNormalNoneNormalNoneBlueOrangeNo,White,Female Short,Normal,Big Smile,Normal,None,Normal,None,Blue,Orange,No,Y
+Judy Chu,48,0.545,CA,27,D,F,0,FBlackFemale ShortNormalBig SmileNormalNoneNormalNoneBrownWhiteNo,Black,Female Short,Normal,Big Smile,Normal,None,Normal,None,Brown,White,No,Y
+Adam Schiff,49,0.612,CA,28,D,M,0,MBrownReceding HairlineNormalSerious SmileBigNoneCheeksNoneLight BrownWhiteMild,Brown,Receding Hairline,Normal,Serious Smile,Big,None,Cheeks,None,Light Brown,White,Mild,Y
+Tony Cardenas,50,0.39,CA,29,D,M,0,MDark GrayGeneric ShortNormalNo SmileNormalNoneNormalNoneBrownBrownNo,Dark Gray,Generic Short,Normal,No Smile,Normal,None,Normal,None,Brown,Brown,No,Y
+Brad Sherman,51,0.423,CA,30,D,M,0,MBrownBaldNormalNormalBigNoneChinGlassesBrownWhiteYes,Brown,Bald,Normal,Normal,Big,None,Chin,Glasses,Brown,White,Yes,Y
+Pete Aguilar,52,0.355,CA,31,D,M,0,MDark GrayGeneric ShortNormalBig SmileBigNoneNormalNoneBrownBrownMild,Dark Gray,Generic Short,Normal,Big Smile,Big,None,Normal,None,Brown,Brown,Mild,Y
+Grace Napolitano,53,0.38,CA,32,D,F,0,FWhiteFemale ShortNormalBig SmileNormalNoneNormalNoneBrownBrownYes,White,Female Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Brown,Yes,Y
+Ted Lieu,54,0.607,CA,33,D,M,0,MDark GrayGeneric Male MediumNormalNo SmileNormalNoneCheeksNoneBrownOrangeNo,Dark Gray,Generic Male Medium,Normal,No Smile,Normal,None,Cheeks,None,Brown,Orange,No,Y
+Jimmy Gomez,55,0.492,CA,34,D,M,0,MBlackGeneric Male MediumNormalSmirkNormalNoneNormalNoneBrownBrownYes,Black,Generic Male Medium,Normal,Smirk,Normal,None,Normal,None,Brown,Brown,Yes,Y
+Norma Torres,56,0.445,CA,35,D,F,0,FBrownFemale LongNormalNo SmileNormalNoneNormalNoneBrownBrownNo,Brown,Female Long,Normal,No Smile,Normal,None,Normal,None,Brown,Brown,No,Y
+Raul Ruiz,57,0.442,CA,36,D,M,0,MBlackGeneric Male MediumNormalSerious SmileBigNoneCheeksNoneBrownBrownNo,Black,Generic Male Medium,Normal,Serious Smile,Big,None,Cheeks,None,Brown,Brown,No,Y
+Karen Bass,58,0.505,CA,37,D,F,0,FBrownGeneric ShortNormalBig SmileNormalNoneNormalNoneBrownBlackNo,Brown,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Black,No,Y
+Linda Sanchez,59,0.441,CA,38,D,F,0,FBrownFemale LongNormalBig SmileNormalNoneNormalNoneBrownBrownYes,Brown,Female Long,Normal,Big Smile,Normal,None,Normal,None,Brown,Brown,Yes,Y
+Young Kim,60,0.698,CA,39,R,F,0,FBrownFemale ShortNormalBig SmileBigNoneNormalNoneBrownWhiteMild,Brown,Female Short,Normal,Big Smile,Big,None,Normal,None,Brown,White,Mild,Y
+Lucille Roybal-Allard,61,0.337,CA,40,D,F,0,FBlackFemale BobNormalBig SmileNormalNoneNormalNoneBrownBrownYes,Black,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Brown,Brown,Yes,Y
+Mark Takano,62,0.375,CA,41,D,M,0,MDark GrayGeneric Male MediumProminentSmirkBigNoneCheeksNoneBrownWhiteMild,Dark Gray,Generic Male Medium,Prominent,Smirk,Big,None,Cheeks,None,Brown,White,Mild,Y
+Ken Calvert,63,0.41,CA,42,R,M,0,MBrownGeneric Male MediumNormalNormalNormalNoneChinNoneBlueWhiteNo,Brown,Generic Male Medium,Normal,Normal,Normal,None,Chin,None,Blue,White,No,Y
+Maxine Waters,64,0.669,CA,43,D,F,0,FRedFemale BobNormalSerious SmileBigNoneCheeksNoneBrownBrownYes,Red,Female Bob,Normal,Serious Smile,Big,None,Cheeks,None,Brown,Brown,Yes,Y
+Nanette Barragan,65,0.451,CA,44,D,F,0,FBlackFemale LongNormalBig SmileNormalNoneCheeksNoneBrownOrangeNo,Black,Female Long,Normal,Big Smile,Normal,None,Cheeks,None,Brown,Orange,No,Y
+Katie Porter,66,0.612,CA,45,D,F,0,FBrownFemale ShortNormalBig SmileNormalNoneNormalNoneBlueWhiteNo,Brown,Female Short,Normal,Big Smile,Normal,None,Normal,None,Blue,White,No,Y
+Lou Correa,67,0.391,CA,46,D,M,0,MGrayBaldProminentSerious SmileBigNoneCheeksNoneBrownOrangeMild,Gray,Bald,Prominent,Serious Smile,Big,None,Cheeks,None,Brown,Orange,Mild,Y
+Alan Lowenthal,68,0.441,CA,47,D,M,0,MWhiteGeneric Male MediumNormalNormalNormalNoneNormalGlassesBlueWhiteYes,White,Generic Male Medium,Normal,Normal,Normal,None,Normal,Glasses,Blue,White,Yes,Y
+Michelle Steel,69,0.628,CA,48,R,F,0,FBlackFemale BobProminentSmirkBigNoneCheeksNoneBrownWhiteMild,Black,Female Bob,Prominent,Smirk,Big,None,Cheeks,None,Brown,White,Mild,Y
+Mike Levin,70,0.448,CA,49,D,M,0,MBlondeGeneric Male MediumNormalBig SmileNormalNoneNormalNoneBlueWhiteYes,Blonde,Generic Male Medium,Normal,Big Smile,Normal,None,Normal,None,Blue,White,Yes,Y
+Darrell Issa,71,0.514,CA,50,R,M,0,MBrownGeneric Male MediumNormalSmirkNormalNoneNormalNoneBrownBrownYes,Brown,Generic Male Medium,Normal,Smirk,Normal,None,Normal,None,Brown,Brown,Yes,Y
+Juan Vargas,72,0.39,CA,51,D,M,0,MGrayGeneric Male MediumNormalBig SmileNormalNoneNormalNoneBrownBrownYes,Gray,Generic Male Medium,Normal,Big Smile,Normal,None,Normal,None,Brown,Brown,Yes,Y
+Scott Peters,73,0.491,CA,52,D,M,0,MDark GrayGeneric Male MediumNormalBig SmileNormalNoneChinNoneAmberWhiteMild,Dark Gray,Generic Male Medium,Normal,Big Smile,Normal,None,Chin,None,Amber,White,Mild,Y
+Sara Jacobs,74,0.561,CA,53,D,F,0,FBlackFemale LongProminentBig SmileNormalNoneCheeksNonehazelWhiteNo,Black,Female Long,Prominent,Big Smile,Normal,None,Cheeks,None,hazel,White,No,Y
+Dianne Feinstein,450,0.927,CA,SEN,D,F,0,FDark BrownFemale ShortNormalBig SmileNormalNoneCheeksNoneBlueOrangeYes,Dark Brown,Female Short,Normal,Big Smile,Normal,None,Cheeks,None,Blue,Orange,Yes,Y
+Alex Padilla,449,0.734,CA,SEN,D,M,0,MDark GrayGeneric Male MediumNormalSerious SmileNormalNoneNormalNoneBrownBrownMild,Dark Gray,Generic Male Medium,Normal,Serious Smile,Normal,None,Normal,None,Brown,Brown,Mild,Y
+Diana DeGette,75,0.566,CO,1,D,F,0,FBrownFemale LongNormalBig SmileNormalNoneCheeksNoneGreenWhiteMild,Brown,Female Long,Normal,Big Smile,Normal,None,Cheeks,None,Green,White,Mild,Y
+Joe Neguse,76,0.626,CO,2,D,M,0,MBlackGeneric ShortNormalBig SmileBigNoneChinNoneBrownBlackNo,Black,Generic Short,Normal,Big Smile,Big,None,Chin,None,Brown,Black,No,Y
+Lauren Boebert,77,0.718,CO,3,R,F,0,FBrownFemale LongNormalNormalNormalNoneNormalGlassesBrownWhiteNo,Brown,Female Long,Normal,Normal,Normal,None,Normal,Glasses,Brown,White,No,Y
+Ken Buck,78,0.58,CO,4,R,M,0,MGrayReceding HairlineNormalNormalNormalNoneNormalNoneBrownWhiteYes,Gray,Receding Hairline,Normal,Normal,Normal,None,Normal,None,Brown,White,Yes,Y
+Doug Lamborn,79,0.42,CO,5,R,M,0,MDark GrayReceding HairlineNormalBig SmileBigNoneChinNoneBlueWhiteNo,Dark Gray,Receding Hairline,Normal,Big Smile,Big,None,Chin,None,Blue,White,No,Y
+Jason Crow,80,0.619,CO,6,D,M,0,MDark BrownGeneric Male MediumNormalBig SmileBigNoneChinNoneHazelWhiteYes,Dark Brown,Generic Male Medium,Normal,Big Smile,Big,None,Chin,None,Hazel,White,Yes,Y
+Ed Perlmutter,81,0.52,CO,7,D,M,0,MBlackGeneric Male MediumProminentNormalNormalNoneNormalNoneBrownWhiteYes,Black,Generic Male Medium,Prominent,Normal,Normal,None,Normal,None,Brown,White,Yes,Y
+John Hickenlooper,552,0.817,CO,SEN,D,M,0,MLight BrownGeneric Male MediumNormalBig SmileNormalNoneNormalNonehazelwhiteMild,Light Brown,Generic Male Medium,Normal,Big Smile,Normal,None,Normal,None,hazel,white,Mild,Y
+Michael Bennet,452,0.761,CO,SEN,D,M,0,MBrownGeneric ShortProminentThin LipsNormalNoneNormalNonehazelWhiteMild,Brown,Generic Short,Prominent,Thin Lips,Normal,None,Normal,None,hazel,White,Mild,Y
+John B. Larson,82,0.472,CT,1,D,M,0,MWhiteGeneric Male MediumNormalNormalBigNoneCheeksNoneBlueWhiteYes,White,Generic Male Medium,Normal,Normal,Big,None,Cheeks,None,Blue,White,Yes,Y
+Joe Courtney,83,0.461,CT,2,D,M,0,MWhiteBaldNormalBig SmileBigNoneChinNoneHazelWhiteYes,White,Bald,Normal,Big Smile,Big,None,Chin,None,Hazel,White,Yes,Y
+Rosa DeLauro,84,0.593,CT,3,D,F,0,FPurpleFemale ShortNormalBig SmileNormalNoneNormalNoneBrownOrangeYes,Purple,Female Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Orange,Yes,Y
+Jim Himes,85,0.539,CT,4,D,M,0,MBlackGeneric Male MediumNormalSerious SmileBigNoneChinNoneBrownWhiteMild,Black,Generic Male Medium,Normal,Serious Smile,Big,None,Chin,None,Brown,White,Mild,Y
+Jahana Hayes,86,0.606,CT,5,D,F,0,FBlackFemale BobNormalBig SmileNormalNoneNormalNoneBrownBlackNo,Black,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Brown,Black,No,Y
+Chris Murphy,453,0.739,CT,SEN,D,M,0,MBrownGeneric Male MediumNormalSmirkNormalNoneNormalNoneBrownWhiteNo,Brown,Generic Male Medium,Normal,Smirk,Normal,None,Normal,None,Brown,White,No,Y
+Richard Blumenthal,454,0.716,CT,SEN,D,M,0,MBrownGeneric ShortNormalThin LipsNormalNoneChinNoneGreenWhiteYes,Brown,Generic Short,Normal,Thin Lips,Normal,None,Chin,None,Green,White,Yes,Y
+Eleanor Norton,88,0.4,DC,1,D,F,0,FBrownGeneric ShortProminentNormalBigNoneNormalGlassesGreyBrownNo,Brown,Generic Short,Prominent,Normal,Big,None,Normal,Glasses,Grey,Brown,No,Y
+Lisa Blunt,87,0.623,DE,1,D,F,0,FBlackFemale BobNormalBig SmileNormalNoneNormalNoneBrownBrownNo,Black,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Brown,Brown,No,Y
+Chris Coons,455,0.789,DE,SEN,D,M,0,MLight BrownBaldNormalNo SmileBigNoneChinNoneblue-greyWhiteNo,Light Brown,Bald,Normal,No Smile,Big,None,Chin,None,blue-grey,White,No,Y
+Tom Carper,456,0.651,DE,SEN,D,M,0,MDark BlondeReceding HairlineNormalSneerNormalNoneChinNonehazelWhiteMild,Dark Blonde,Receding Hairline,Normal,Sneer,Normal,None,Chin,None,hazel,White,Mild,Y
+Matt Gaetz,89,0.782,FL,1,R,M,0,MDark BrownGeneric Male MediumProminentSneerNormalNoneCheeksNoneGreyWhiteNo,Dark Brown,Generic Male Medium,Prominent,Sneer,Normal,None,Cheeks,None,Grey,White,No,Y
+Neal Dunn,90,0.441,FL,2,R,M,0,MLight BrownReceding HairlineNormalNormalNormalNoneNormalNoneBrownWhiteYes,Light Brown,Receding Hairline,Normal,Normal,Normal,None,Normal,None,Brown,White,Yes,Y
+Kat Cammack,91,0.435,FL,3,R,F,0,FLight BlondeFemale LongProminentNormalNormalNoneCheeksNoneBlueWhiteNo,Light Blonde,Female Long,Prominent,Normal,Normal,None,Cheeks,None,Blue,White,No,Y
+John Rutherford,92,0.423,FL,4,R,M,0,MGrayReceding HairlineNormalSerious SmileBigMoustacheNormalNoneGreenWhiteNo,Gray,Receding Hairline,Normal,Serious Smile,Big,Moustache,Normal,None,Green,White,No,Y
+Al Lawson,93,0.455,FL,5,D,M,0,MBrownGeneric ShortNormalNormalNormalNoneChinNoneBrownBrownNo,Brown,Generic Short,Normal,Normal,Normal,None,Chin,None,Brown,Brown,No,Y
+Michael Waltz,94,0.397,FL,6,R,M,0,MDark GrayReceding HairlineNormalSerious SmileNormalNoneChinNoneBrownWhiteMild,Dark Gray,Receding Hairline,Normal,Serious Smile,Normal,None,Chin,None,Brown,White,Mild,Y
+Stephanie Murphy,95,0.59,FL,7,D,F,0,FBlackFemale LongNormalSerious SmileNormalNoneNormalNoneBrownWhiteNo,Black,Female Long,Normal,Serious Smile,Normal,None,Normal,None,Brown,White,No,Y
+Bill Posey,96,0.372,FL,8,R,M,0,MBlackReceding HairlineNormalSerious SmileNormalNoneNormalNoneHazelWhiteYes,Black,Receding Hairline,Normal,Serious Smile,Normal,None,Normal,None,Hazel,White,Yes,Y
+Darren Soto,97,0.474,FL,9,D,M,0,MBlackGeneric Male MediumNormalNormalNormalNoneCheeksNoneBrownOrangeNo,Black,Generic Male Medium,Normal,Normal,Normal,None,Cheeks,None,Brown,Orange,No,Y
+Val Demings,98,0.6,FL,10,D,F,0,FDark BrownFemale BobNormalNormalNormalNoneCheeksNoneBrownBrownNo,Dark Brown,Female Bob,Normal,Normal,Normal,None,Cheeks,None,Brown,Brown,No,Y
+Daniel Webster,99,0.4,FL,11,R,M,0,MWhiteGeneric Male MediumProminentNormalNormalNoneNormalNoneBrownWhiteYes,White,Generic Male Medium,Prominent,Normal,Normal,None,Normal,None,Brown,White,Yes,Y
+Gus Bilirakis,100,0.304,FL,12,R,M,0,MBrownGeneric Male MediumNormalSerious SmileNormalNoneNormalGlassesBrownWhiteYes,Brown,Generic Male Medium,Normal,Serious Smile,Normal,None,Normal,Glasses,Brown,White,Yes,Y
+Charlie Crist,101,0.601,FL,13,D,M,0,MWhiteGeneric Male MediumProminentNormalBigNoneChinNoneBrownWhiteYes,White,Generic Male Medium,Prominent,Normal,Big,None,Chin,None,Brown,White,Yes,Y
+Kathy Castor,102,0.477,FL,14,D,F,0,FRedFemale BobNormalBig SmileNormalNoneNormalNoneGreenWhiteNo,Red,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Green,White,No,Y
+Scott Franklin,103,0.382,FL,15,R,M,0,MDark GrayGeneric Male MediumNormalNormalNormalNoneChinNoneBlue-GreyWhiteMild,Dark Gray,Generic Male Medium,Normal,Normal,Normal,None,Chin,None,Blue-Grey,White,Mild,Y
+Vern Buchanan,104,0.431,FL,16,R,M,0,MDark BrownGeneric Male MediumNormalSerious SmileBigNoneChinNoneGreyWhiteNo,Dark Brown,Generic Male Medium,Normal,Serious Smile,Big,None,Chin,None,Grey,White,No,Y
+Greg Steube,105,0.365,FL,17,R,M,0,MBrownGeneric Male MediumNormalNormalNormalBeardNormalNoneBrownWhiteNo,Brown,Generic Male Medium,Normal,Normal,Normal,Beard,Normal,None,Brown,White,No,Y
+Brian Mast,106,0.451,FL,18,R,M,0,MNoneBaldNormalBig SmileNormalNoneNormalNoneBrownWhiteYes,None,Bald,Normal,Big Smile,Normal,None,Normal,None,Brown,White,Yes,Y
+Byron Donalds,107,0.429,FL,19,R,M,0,MBlackGeneric ShortNormalSerious SmileNormalNoneNormalNoneBrownBrownNo,Black,Generic Short,Normal,Serious Smile,Normal,None,Normal,None,Brown,Brown,No,Y
+Alcee Hastings,108,0.493,FL,20,D,M,0,MGrayBaldNormalNormalNormalBeardNormalNoneBrownBrownYes,Gray,Bald,Normal,Normal,Normal,Beard,Normal,None,Brown,Brown,Yes,Y
+Lois Frankel,109,0.458,FL,21,D,F,0,FBlackFemale ShortNormalNormalNormalNoneCheeksNoneBrownWhiteYes,Black,Female Short,Normal,Normal,Normal,None,Cheeks,None,Brown,White,Yes,Y
+Ted Deutch,110,0.533,FL,22,D,M,0,MGrayBaldNormalSerious SmileNormalNoneNormalNoneBrownWhiteYes,Gray,Bald,Normal,Serious Smile,Normal,None,Normal,None,Brown,White,Yes,Y
+Debbie Wasserman Schultz,111,0.599,FL,23,D,F,0,FBlondeFemale LongNormalBig SmileNormalNoneNormalNoneHazelWhiteNo,Blonde,Female Long,Normal,Big Smile,Normal,None,Normal,None,Hazel,White,No,Y
+Frederica Wilson,112,0.533,FL,24,D,F,0,FBlackGeneric ShortNormalBig SmileNormalNoneNormalCowboy HatBrownBrownYes,Black,Generic Short,Normal,Big Smile,Normal,None,Normal,Cowboy Hat,Brown,Brown,Yes,Y
+Mario Diaz-Balart,113,0.498,FL,25,R,M,0,MBrownReceding HairlineProminentSmirkBigNoneCheeksNoneBrownWhiteMild,Brown,Receding Hairline,Prominent,Smirk,Big,None,Cheeks,None,Brown,White,Mild,Y
+Carlos Gimenez,114,0.505,FL,26,R,M,0,MWhiteGeneric ShortProminentSerious SmileBigNoneNormalNoneBrownWhiteMild,White,Generic Short,Prominent,Serious Smile,Big,None,Normal,None,Brown,White,Mild,Y
+Maria Elvira Salazar,115,0.593,FL,27,R,F,0,FBrownFemale LongProminentBig SmileNormalNoneNormalNoneBrownWhiteNo,Brown,Female Long,Prominent,Big Smile,Normal,None,Normal,None,Brown,White,No,Y
+Marco Rubio,457,0.917,FL,SEN,R,M,0,MDark BrownGeneric Male MediumNormalBig SmileBigNoneNormalNoneHazelTanNo,Dark Brown,Generic Male Medium,Normal,Big Smile,Big,None,Normal,None,Hazel,Tan,No,Y
+Rick Scott,458,0.876,FL,SEN,R,M,0,MGrayBaldNormalThin LipsBigNoneNormalNoneBlueWhitemild,Gray,Bald,Normal,Thin Lips,Big,None,Normal,None,Blue,White,mild,Y
+Buddy Carter,116,0.504,GA,1,R,M,0,MGrayGeneric Male MediumProminentSerious SmileBigNoneCheeksNoneBrownOrangeYes,Gray,Generic Male Medium,Prominent,Serious Smile,Big,None,Cheeks,None,Brown,Orange,Yes,Y
+Sanford Bishop,117,0.514,GA,2,D,M,0,MBlackReceding HairlineNormalNormalNormalMoustacheNormalNoneBrownBrownYes,Black,Receding Hairline,Normal,Normal,Normal,Moustache,Normal,None,Brown,Brown,Yes,Y
+Drew Ferguson,118,0.394,GA,3,R,M,0,MGrayGeneric Male MediumNormalThin LipsBigNoneCheeksNoneGreyWhiteMild,Gray,Generic Male Medium,Normal,Thin Lips,Big,None,Cheeks,None,Grey,White,Mild,Y
+Hank Johnson,119,0.672,GA,4,D,M,0,MWhiteGeneric ShortNormalNo SmileNormalNoneNormalNoneBrownBrownNo,White,Generic Short,Normal,No Smile,Normal,None,Normal,None,Brown,Brown,No,Y
+Nikema Williams,120,0.578,GA,5,D,F,0,FBlackFemale LongNormalBig SmileNormalNoneNormalGlassesBrownBrownNo,Black,Female Long,Normal,Big Smile,Normal,None,Normal,Glasses,Brown,Brown,No,Y
+Lucy McBath,121,0.645,GA,6,D,F,0,FRedFemale LongNormalBig SmileNormalNoneNormalNoneBrownBrownMild,Red,Female Long,Normal,Big Smile,Normal,None,Normal,None,Brown,Brown,Mild,Y
+Carolyn Bourdeaux,122,0.546,GA,7,D,F,0,FGrayFemale ShortNormalNormalNormalNoneNormalGlassesBrownWhiteYes,Gray,Female Short,Normal,Normal,Normal,None,Normal,Glasses,Brown,White,Yes,Y
+Austin Scott,123,0.515,GA,8,R,M,0,MBrownGeneric Male MediumNormalBig SmileNormalNoneChinNoneGreenWhiteMild,Brown,Generic Male Medium,Normal,Big Smile,Normal,None,Chin,None,Green,White,Mild,Y
+Andrew Clyde,124,0.423,GA,9,R,M,0,MGrayGeneric Male MediumProminentNo SmileBigNoneCheeksNoneBrownWhiteMild,Gray,Generic Male Medium,Prominent,No Smile,Big,None,Cheeks,None,Brown,White,Mild,Y
+Jody Hice,125,0.46,GA,10,R,M,0,MGrayGeneric ShortProminentThin LipsBigNoneChinNoneBrownWhiteMild,Gray,Generic Short,Prominent,Thin Lips,Big,None,Chin,None,Brown,White,Mild,Y
+Barry Loudermilk,126,0.473,GA,11,R,M,0,MGrayGeneric Male MediumNormalNormalBigNoneNormalGlassesHazelWhiteMild,Gray,Generic Male Medium,Normal,Normal,Big,None,Normal,Glasses,Hazel,White,Mild,Y
+Rick W. Allen,127,0.385,GA,12,R,M,0,MGrayGeneric Male MediumNormalBig SmileNormalNoneNormalNoneBrownWhiteYes,Gray,Generic Male Medium,Normal,Big Smile,Normal,None,Normal,None,Brown,White,Yes,Y
+David Scott,128,0.514,GA,13,D,M,0,MGrayGeneric ShortNormalNormalNormalMoustacheNormalNoneBrownBrownYes,Gray,Generic Short,Normal,Normal,Normal,Moustache,Normal,None,Brown,Brown,Yes,Y
+Marjorie Taylor Greene,129,0.72,GA,14,R,F,0,FLight BlondeFemale LongNormalBig SmileBigNoneNormalNoneBrownWhiteMild,Light Blonde,Female Long,Normal,Big Smile,Big,None,Normal,None,Brown,White,Mild,Y
+Raphael Warnock,460,0.917,GA,SEN,D,M,0,MNoneBaldProminentBig SmileBigGoateeCheeksGlassesBrownBlackNo,None,Bald,Prominent,Big Smile,Big,Goatee,Cheeks,Glasses,Brown,Black,No,Y
+Jon Ossoff,559,0.908,GA,SEN,D,M,0,MDark BrownGeneric Male MediumProminentSmirkBigNoneNormalNoneAmberwhiteno,Dark Brown,Generic Male Medium,Prominent,Smirk,Big,None,Normal,None,Amber,white,no,Y
+Michael F San Nicolas,130,0.4,GU,1,D,M,0,MBlackGeneric ShortNormalNormalNormalBeardNormalNoneBrownWhiteNo,Black,Generic Short,Normal,Normal,Normal,Beard,Normal,None,Brown,White,No,Y
+Ed Case,131,0.587,HI,1,D,M,0,MBrownGeneric ShortNormalBig SmileNormalNoneChinNoneBrownWhiteMild,Brown,Generic Short,Normal,Big Smile,Normal,None,Chin,None,Brown,White,Mild,Y
+Kai Kahele,132,0.539,HI,2,D,M,0,MBlackGeneric Male MediumNormalSmirkNormalNoneNormalNoneHazelWhiteYes,Black,Generic Male Medium,Normal,Smirk,Normal,None,Normal,None,Hazel,White,Yes,Y
+Mazie Hirono,562,0.798,HI,SEN,D,F,0,FDark GrayFemale BobProminentBig SmileNormalNoneNormalNoneHazelWhiteMild,Dark Gray,Female Bob,Prominent,Big Smile,Normal,None,Normal,None,Hazel,White,Mild,Y
+Brian Schatz,561,0.711,HI,SEN,D,M,0,MBlackGeneric Male MediumNormalBig SmileNormalNoneChinNoneBrownwhiteno,Black,Generic Male Medium,Normal,Big Smile,Normal,None,Chin,None,Brown,white,no,Y
+Ashley Hinson,162,0.483,IA,1,R,F,0,FBlondeFemale LongNormalBig SmileNormalNoneCheeksNoneGreenWhiteNo,Blonde,Female Long,Normal,Big Smile,Normal,None,Cheeks,None,Green,White,No,Y
+Mariannette Miller-Meeks,163,0.587,IA,2,R,F,0,FGrayFemale BobNormalNormalNormalNoneNormalGlassesBrownWhiteYes,Gray,Female Bob,Normal,Normal,Normal,None,Normal,Glasses,Brown,White,Yes,Y
+Cindy Axne,164,0.634,IA,3,D,F,0,FRedFemale LongNormalSerious SmileNormalNoneChinNoneBlueWhiteMild,Red,Female Long,Normal,Serious Smile,Normal,None,Chin,None,Blue,White,Mild,Y
+Randy Feenstra,165,0.508,IA,4,R,M,0,MBrownGeneric Male MediumNormalNormalBigNoneChinGlassesBrownWhiteMild,Brown,Generic Male Medium,Normal,Normal,Big,None,Chin,Glasses,Brown,White,Mild,Y
+Chuck Grassley,569,0.876,IA,SEN,R,M,0,MLight GrayReceding HairlineProminentBig SmileBigNoneNormalGlassesBluewhiteYes,Light Gray,Receding Hairline,Prominent,Big Smile,Big,None,Normal,Glasses,Blue,white,Yes,Y
+Joni Ernst,464,0.826,IA,SEN,R,M,0,MDark GrayFemale BobNormalBig SmileNormalNoneCheeksNoneBlue-GreyWhiteNo,Dark Gray,Female Bob,Normal,Big Smile,Normal,None,Cheeks,None,Blue-Grey,White,No,Y
+Russ Fulcher,133,0.401,ID,1,R,M,0,MBrownGeneric Male MediumProminentSerious SmileBigNoneChinNoneBrownWhiteYes,Brown,Generic Male Medium,Prominent,Serious Smile,Big,None,Chin,None,Brown,White,Yes,Y
+Mike Simpson,134,0.493,ID,2,R,M,0,MBrownGeneric Male MediumProminentNormalNormalNoneNormalNoneBrownOrangeNo,Brown,Generic Male Medium,Prominent,Normal,Normal,None,Normal,None,Brown,Orange,No,Y
+Mike Crapo,466,0.72,ID,SEN,R,M,0,MGrayReceding HairlineNormalThin LipsNormalNoneNormalNoneGreenWhiteNo,Gray,Receding Hairline,Normal,Thin Lips,Normal,None,Normal,None,Green,White,No,Y
+Jim Risch,564,0.624,ID,SEN,R,M,0,MGrayBaldNormalSerious SmileNormalNoneNormalNonehazelwhiteMild,Gray,Bald,Normal,Serious Smile,Normal,None,Normal,None,hazel,white,Mild,Y
+Bobby Rush,135,0.536,IL,1,D,M,0,MGrayGeneric ShortNormalNormalBigGoateeNormalGlassesBrownBrownYes,Gray,Generic Short,Normal,Normal,Big,Goatee,Normal,Glasses,Brown,Brown,Yes,Y
+Robin Kelly,136,0.444,IL,2,D,F,0,FGrayFemale BobNormalBig SmileNormalNoneNormalNoneBrownOrangeNo,Gray,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Brown,Orange,No,Y
+Marie Newman,137,0.501,IL,3,D,F,0,FDark BrownFemale LongNormalSerious SmileNormalNoneCheeksNoneBrownWhiteMild,Dark Brown,Female Long,Normal,Serious Smile,Normal,None,Cheeks,None,Brown,White,Mild,Y
+"Jesus ""Chuy"" García",138,0.699,IL,4,D,M,0,MDark GrayGeneric ShortNormalNo SmileBigMoustacheCheeksNoneBrownBrownYes,Dark Gray,Generic Short,Normal,No Smile,Big,Moustache,Cheeks,None,Brown,Brown,Yes,Y
+Mike Quigley,139,0.445,IL,5,D,M,0,MDark BlondeGeneric Male MediumNormalSerious SmileNormalNoneCheeksNoneHazelWhiteMild,Dark Blonde,Generic Male Medium,Normal,Serious Smile,Normal,None,Cheeks,None,Hazel,White,Mild,Y
+Sean Casten,140,0.458,IL,6,D,M,0,MBrownReceding HairlineNormalBig SmileBigNoneChinNoneGreyWhiteYes,Brown,Receding Hairline,Normal,Big Smile,Big,None,Chin,None,Grey,White,Yes,Y
+Danny K. Davis,141,0.613,IL,7,D,M,0,MWhiteReceding HairlineNormalNormalNormalGoateeNormalNoneBrownBrownYes,White,Receding Hairline,Normal,Normal,Normal,Goatee,Normal,None,Brown,Brown,Yes,Y
+Raja Krishnamoorthi,142,0.438,IL,8,D,M,0,MBlackGeneric Male MediumProminentBig SmileBigNoneNormalNoneBrownBrownNo,Black,Generic Male Medium,Prominent,Big Smile,Big,None,Normal,None,Brown,Brown,No,Y
+Jan Schakowsky,143,0.381,IL,9,D,F,0,FBrownFemale ShortNormalSerious SmileNormalNoneNormalNoneBrownWhiteNo,Brown,Female Short,Normal,Serious Smile,Normal,None,Normal,None,Brown,White,No,Y
+Brad Schneider,144,0.381,IL,10,D,M,0,MDark BrownGeneric Male MediumNormalSerious SmileBigNoneCheeksNoneBrownWhiteMild,Dark Brown,Generic Male Medium,Normal,Serious Smile,Big,None,Cheeks,None,Brown,White,Mild,Y
+Bill Foster,145,0.374,IL,11,D,M,0,MWhiteReceding HairlineNormalNo SmileNormalNoneNormalGlassesBrownWhiteYes,White,Receding Hairline,Normal,No Smile,Normal,None,Normal,Glasses,Brown,White,Yes,Y
+Mike Bost,146,0.423,IL,12,R,M,0,MGrayGeneric Male MediumNormalNormalNormalNoneCheeksNoneBlueWhiteYes,Gray,Generic Male Medium,Normal,Normal,Normal,None,Cheeks,None,Blue,White,Yes,Y
+Rodney Davis,147,0.615,IL,13,R,M,0,MBrownGeneric Male MediumNormalSerious SmileNormalNoneNormalNoneBlueWhiteNo,Brown,Generic Male Medium,Normal,Serious Smile,Normal,None,Normal,None,Blue,White,No,Y
+Lauren Underwood,148,0.575,IL,14,D,F,0,FBlackFemale ShortNormalBig SmileNormalNoneNormalNoneBrownBrownNo,Black,Female Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Brown,No,Y
+Mary Miller,149,0.651,IL,15,R,F,0,FLight BlondeFemale BobNormalNormalBigNoneCheeksNoneBlue-greyWhiteNo,Light Blonde,Female Bob,Normal,Normal,Big,None,Cheeks,None,Blue-grey,White,No,Y
+Adam Kinzinger,150,0.537,IL,16,R,M,0,MBlackGeneric Male MediumNormalBig SmileBigNoneNormalNoneBrownWhiteMild,Black,Generic Male Medium,Normal,Big Smile,Big,None,Normal,None,Brown,White,Mild,Y
+Cheri Bustos,151,0.533,IL,17,D,F,0,FRedFemale LongNormalBig SmileNormalNoneNormalNoneBrownWhiteMild,Red,Female Long,Normal,Big Smile,Normal,None,Normal,None,Brown,White,Mild,Y
+Darin LaHood,152,0.404,IL,18,R,M,0,MGrayGeneric Male MediumNormalSerious SmileBigNoneChinNoneBrownWhiteMild,Gray,Generic Male Medium,Normal,Serious Smile,Big,None,Chin,None,Brown,White,Mild,Y
+Tammy Duckworth,566,0.844,IL,SEN,D,F,0,FRedFemale LongNormalBig SmileNormalNoneCheeksNonehazelwhiteno,Red,Female Long,Normal,Big Smile,Normal,None,Cheeks,None,hazel,white,no,Y
+Dick Durbin,467,0.812,IL,SEN,D,M,0,MLight GrayReceding HairlineNormalNormalNormalNoneCheeksNoneBrownWhiteYes,Light Gray,Receding Hairline,Normal,Normal,Normal,None,Cheeks,None,Brown,White,Yes,Y
+Frank J. Mrvan,153,0.485,IN,1,D,M,0,MDark BrownGeneric Male MediumNormalSmirkBigNoneNormalNoneBrownWhiteYes,Dark Brown,Generic Male Medium,Normal,Smirk,Big,None,Normal,None,Brown,White,Yes,Y
+Jackie Walorski,154,0.397,IN,2,R,F,0,FBrownFemale BobNormalNormalNormalNoneNormalGlassesBrownWhiteYes,Brown,Female Bob,Normal,Normal,Normal,None,Normal,Glasses,Brown,White,Yes,Y
+Jim Banks,155,0.404,IN,3,R,M,0,MDark GrayGeneric Male MediumProminentBig SmileBigNoneChinNoneHazelWhiteMild,Dark Gray,Generic Male Medium,Prominent,Big Smile,Big,None,Chin,None,Hazel,White,Mild,Y
+Jim Baird,156,0.384,IN,4,R,M,0,MWhiteReceding HairlineNormalNormalNormalNoneChinNoneBrownWhiteYes,White,Receding Hairline,Normal,Normal,Normal,None,Chin,None,Brown,White,Yes,Y
+Victoria Spartz,157,0.455,IN,5,R,F,0,FLight BlondeFemale ShortNormalSerious SmileBigNoneCheeksNoneBrownWhiteMild,Light Blonde,Female Short,Normal,Serious Smile,Big,None,Cheeks,None,Brown,White,Mild,Y
+Greg Pence,158,0.534,IN,6,R,M,0,MWhiteGeneric ShortNormalSmirkBigNoneChinNonehazelWhiteYes,White,Generic Short,Normal,Smirk,Big,None,Chin,None,hazel,White,Yes,Y
+André Carson,159,0.509,IN,7,D,M,0,MGrayBaldNormalNormalNormalMoustacheNormalNoneBrownBrownNo,Gray,Bald,Normal,Normal,Normal,Moustache,Normal,None,Brown,Brown,No,Y
+Larry Bucshon,160,0.315,IN,8,R,M,0,MBlackBaldNormalSerious SmileNormalNoneNormalNoneBrownOrangeNo,Black,Bald,Normal,Serious Smile,Normal,None,Normal,None,Brown,Orange,No,Y
+Trey Hollingsworth,161,0.419,IN,9,R,M,0,MBlackGeneric Male MediumNormalNo SmileBigNoneCheeksNoneBlueWhiteMild,Black,Generic Male Medium,Normal,No Smile,Big,None,Cheeks,None,Blue,White,Mild,Y
+Todd Young,567,0.679,IN,SEN,R,M,0,MBlackGeneric Male MediumNormalBig SmileNormalNoneNormalNonehazelwhitemild,Black,Generic Male Medium,Normal,Big Smile,Normal,None,Normal,None,hazel,white,mild,Y
+Mike Braun,568,0.674,IN,SEN,R,M,0,MDark GrayReceding HairlineNormalSerious SmileNormalNoneNormalGlasseshazelwhiteno,Dark Gray,Receding Hairline,Normal,Serious Smile,Normal,None,Normal,Glasses,hazel,white,no,Y
+Tracey Mann,166,0.362,KS,1,R,M,0,MDark BrownReceding HairlineNormalNormalBigNoneChinNoneBrownWhiteMild,Dark Brown,Receding Hairline,Normal,Normal,Big,None,Chin,None,Brown,White,Mild,Y
+Jake LaTurner,167,0.422,KS,2,R,M,0,MBlackGeneric Male MediumNormalNormalNormalNoneNormalGlassesBrownWhiteNo,Black,Generic Male Medium,Normal,Normal,Normal,None,Normal,Glasses,Brown,White,No,Y
+Sharice Davids,168,0.62,KS,3,D,F,0,FBrownFemale LongNormalBig SmileNormalNoneCheeksNoneBrownBrownMild,Brown,Female Long,Normal,Big Smile,Normal,None,Cheeks,None,Brown,Brown,Mild,Y
+Ron Estes,169,0.438,KS,4,R,M,0,MWhiteBaldNormalSerious SmileNormalNoneNormalNoneBrownWhiteYes,White,Bald,Normal,Serious Smile,Normal,None,Normal,None,Brown,White,Yes,Y
+Jerry Moran,571,0.624,KS,SEN,R,M,0,MLight GrayReceding HairlineNormalBig SmileBigNoneNormalNoneBlueOrangeMild,Light Gray,Receding Hairline,Normal,Big Smile,Big,None,Normal,None,Blue,Orange,Mild,Y
+Roger Marshall,572,0.615,KS,SEN,R,M,0,MGrayReceding HairlineNormalBig SmileNormalNoneCheeksNoneBlueWhiteMild,Gray,Receding Hairline,Normal,Big Smile,Normal,None,Cheeks,None,Blue,White,Mild,Y
+James Comer,170,0.378,KY,1,R,M,0,MWhiteGeneric Male MediumNormalSmirkNormalNoneChinNoneBrownWhiteYes,White,Generic Male Medium,Normal,Smirk,Normal,None,Chin,None,Brown,White,Yes,Y
+Brett Guthrie,171,0.377,KY,2,R,M,0,MDark GrayReceding HairlineNormalSerious SmileNormalNoneNormalGlassesBrownWhiteMild,Dark Gray,Receding Hairline,Normal,Serious Smile,Normal,None,Normal,Glasses,Brown,White,Mild,Y
+John Yarmuth,172,0.521,KY,3,D,M,0,MBrownReceding HairlineProminentNormalNormalNoneNormalNoneBrownWhiteYes,Brown,Receding Hairline,Prominent,Normal,Normal,None,Normal,None,Brown,White,Yes,Y
+Thomas Massie,173,0.485,KY,4,R,M,0,MBrownGeneric Male MediumNormalNormalNormalNoneNormalGlassesBrownWhiteNo,Brown,Generic Male Medium,Normal,Normal,Normal,None,Normal,Glasses,Brown,White,No,Y
+Hal Rogers,174,0.566,KY,5,R,M,0,MWhiteGeneric Male MediumNormalNo SmileBigNoneNormalGlassesBlue-GreyWhiteYes,White,Generic Male Medium,Normal,No Smile,Big,None,Normal,Glasses,Blue-Grey,White,Yes,Y
+Andy Barr,175,0.664,KY,6,R,M,0,MBrownReceding HairlineNormalSerious SmileNormalNoneNormalNoneBrownOrangeYes,Brown,Receding Hairline,Normal,Serious Smile,Normal,None,Normal,None,Brown,Orange,Yes,Y
+Mitch McConnell,573,0.968,KY,SEN,R,M,0,MLight GrayReceding HairlineNormalSmirkBigNoneCheeksGlassesBlue-GreyWhiteYes,Light Gray,Receding Hairline,Normal,Smirk,Big,None,Cheeks,Glasses,Blue-Grey,White,Yes,Y
+Rand Paul,574,0.904,KY,SEN,R,M,0,MBrownGeneric Male MediumProminentSmirkBigNoneCheeksNoneBlue-GreywhiteMild,Brown,Generic Male Medium,Prominent,Smirk,Big,None,Cheeks,None,Blue-Grey,white,Mild,Y
+Steve Scalise,176,0.528,LA,1,R,M,0,MGrayReceding HairlineProminentNormalBigNoneChinNoneGreenWhiteNo,Gray,Receding Hairline,Prominent,Normal,Big,None,Chin,None,Green,White,No,Y
+Troy Carter,177,0.4,LA,2,D,M,0,MDark GrayReceding HairlineNormalNormalNormalBeardNormalGlassesBrownBrownYes,Dark Gray,Receding Hairline,Normal,Normal,Normal,Beard,Normal,Glasses,Brown,Brown,Yes,Y
+Clay Higgins,178,0.368,LA,3,R,M,0,MDark GrayReceding HairlineProminentNo SmileBigNoneChinNoneGreyWhiteNo,Dark Gray,Receding Hairline,Prominent,No Smile,Big,None,Chin,None,Grey,White,No,Y
+Mike Johnson,179,0.664,LA,4,R,M,0,MBlackGeneric Male MediumNormalNo SmileBigNoneNormalGlassesBrownWhiteMild,Black,Generic Male Medium,Normal,No Smile,Big,None,Normal,Glasses,Brown,White,Mild,Y
+Julia Letlow,180,0.4,LA,5,R,F,0,FLight BrownFemale BobNormalBig SmileNormalNoneCheeksNoneAmberWhiteNo,Light Brown,Female Bob,Normal,Big Smile,Normal,None,Cheeks,None,Amber,White,No,Y
+Garret Graves,181,0.366,LA,6,R,M,0,MBrownGeneric Male MediumProminentNormalNormalNoneNormalNoneBrownWhiteNo,Brown,Generic Male Medium,Prominent,Normal,Normal,None,Normal,None,Brown,White,No,Y
+John Kennedy,476,0.849,LA,SEN,R,M,0,MDark GrayGeneric Male MediumNormalSerious SmileBigNoneCheeksNoneGreyWhiteMild,Dark Gray,Generic Male Medium,Normal,Serious Smile,Big,None,Cheeks,None,Grey,White,Mild,Y
+Bill Cassidy,475,0.702,LA,SEN,R,M,0,MLight GrayGeneric Male MediumProminentBig SmileBigNoneChinNoneBlue-GreyWhiteMild,Light Gray,Generic Male Medium,Prominent,Big Smile,Big,None,Chin,None,Blue-Grey,White,Mild,Y
+Richard Neal,192,0.464,MA,1,D,M,0,MDark GrayReceding HairlineNormalNormalBigNoneChinNoneBlueWhiteYes,Dark Gray,Receding Hairline,Normal,Normal,Big,None,Chin,None,Blue,White,Yes,Y
+Jim McGovern,193,0.488,MA,2,D,M,0,MDark BrownBaldNormalNo SmileBigNoneNormalGlassesBrownWhiteNo,Dark Brown,Bald,Normal,No Smile,Big,None,Normal,Glasses,Brown,White,No,Y
+Lori Trahan,194,0.412,MA,3,D,F,0,FBrownFemale LongNormalBig SmileNormalNoneChinNoneBrownWhiteNo,Brown,Female Long,Normal,Big Smile,Normal,None,Chin,None,Brown,White,No,Y
+Jake Auchincloss,195,0.439,MA,4,D,M,0,MDark BrownGeneric Male MediumNormalBig SmileBigNoneNormalNoneGreenWhiteNo,Dark Brown,Generic Male Medium,Normal,Big Smile,Big,None,Normal,None,Green,White,No,Y
+Katherine Clark,196,0.445,MA,5,D,F,0,FWhiteFemale LongNormalNormalNormalNoneNormalNoneBlueWhiteNo,White,Female Long,Normal,Normal,Normal,None,Normal,None,Blue,White,No,Y
+Seth Moulton,197,0.391,MA,6,D,M,0,MBrownGeneric Male MediumNormalNormalNormalNoneChinNoneBrownWhiteMild,Brown,Generic Male Medium,Normal,Normal,Normal,None,Chin,None,Brown,White,Mild,Y
+Ayanna Pressley,198,0.601,MA,7,D,F,0,FNoneBaldNormalBig SmileNormalNoneNormalNoneBrownBrownNo,None,Bald,Normal,Big Smile,Normal,None,Normal,None,Brown,Brown,No,Y
+Stephen F. Lynch,199,0.38,MA,8,D,M,0,MGrayReceding HairlineProminentSerious SmileBigNoneChinNoneBlueWhiteYes,Gray,Receding Hairline,Prominent,Serious Smile,Big,None,Chin,None,Blue,White,Yes,Y
+Bill Keating,200,0.393,MA,9,D,M,0,MGrayBaldNormalSerious SmileBigNoneNormalNoneBrownWhiteYes,Gray,Bald,Normal,Serious Smile,Big,None,Normal,None,Brown,White,Yes,Y
+Elizabeth Warren,479,0.94,MA,SEN,D,F,0,FLight BlondeFemale ShortNormalSerious SmileNormalNoneNormalGlassesBlueWhiteNo,Light Blonde,Female Short,Normal,Serious Smile,Normal,None,Normal,Glasses,Blue,White,No,Y
+Ed Markey,582,0.784,MA,SEN,D,M,0,MGrayReceding HairlineProminentSerious SmileNormalNoneChinNonehazelwhiteMild,Gray,Receding Hairline,Prominent,Serious Smile,Normal,None,Chin,None,hazel,white,Mild,Y
+Andy Harris,184,0.528,MD,1,R,M,0,MGrayReceding HairlineNormalNormalNormalBeardNormalNoneBrownWhiteNo,Gray,Receding Hairline,Normal,Normal,Normal,Beard,Normal,None,Brown,White,No,Y
+Dutch Ruppersberger,185,0.382,MD,2,D,M,0,MDark BrownGeneric Male MediumProminentBig SmileNormalNoneChinNoneBrownWhiteYes,Dark Brown,Generic Male Medium,Prominent,Big Smile,Normal,None,Chin,None,Brown,White,Yes,Y
+John Sarbanes,186,0.359,MD,3,D,M,0,MBlackGeneric Male MediumNormalSerious SmileBigNoneNormalNoneBrownWhiteNo,Black,Generic Male Medium,Normal,Serious Smile,Big,None,Normal,None,Brown,White,No,Y
+Anthony G. Brown,187,0.587,MD,4,D,M,0,MBlackGeneric ShortNormalNormalNormalNoneNormalGlassesBrownBrownYes,Black,Generic Short,Normal,Normal,Normal,None,Normal,Glasses,Brown,Brown,Yes,Y
+Steny Hoyer,188,0.549,MD,5,D,M,0,MWhiteGeneric ShortNormalSneerBigNoneNormalNoneGreyWhiteYes,White,Generic Short,Normal,Sneer,Big,None,Normal,None,Grey,White,Yes,Y
+David Trone,189,0.369,MD,6,D,M,0,MGrayGeneric Male MediumNormalNormalBigNoneCheeksNoneBlueWhiteMild,Gray,Generic Male Medium,Normal,Normal,Big,None,Cheeks,None,Blue,White,Mild,Y
+Kweisi Mfume,190,0.409,MD,7,D,M,0,MBlackGeneric ShortNormalNormalNormalMoustacheNormalGlassesBrownBrownNo,Black,Generic Short,Normal,Normal,Normal,Moustache,Normal,Glasses,Brown,Brown,No,Y
+Jamie Raskin,191,0.502,MD,8,D,M,0,MBlackReceding HairlineNormalBig SmileBigNoneChinNoneBrownWhiteYes,Black,Receding Hairline,Normal,Big Smile,Big,None,Chin,None,Brown,White,Yes,Y
+Ben Cardin,579,0.615,MD,SEN,D,M,0,MWhiteBaldNormalBig SmileNormalNoneNormalNonehazelwhiteMild,White,Bald,Normal,Big Smile,Normal,None,Normal,None,hazel,white,Mild,Y
+Chris Van Hollen,580,0.541,MD,SEN,D,M,0,MWhiteGeneric Male MediumNormalNormalNormalNoneNormalNonehazelwhiteMild,White,Generic Male Medium,Normal,Normal,Normal,None,Normal,None,hazel,white,Mild,Y
+Chellie Pingree,182,0.55,ME,1,D,F,0,FBlondeFemale BobNormalThin LipsNormalNoneChinNoneBlueWhiteYes,Blonde,Female Bob,Normal,Thin Lips,Normal,None,Chin,None,Blue,White,Yes,Y
+Jared Golden,183,0.645,ME,2,D,M,0,MDark BrownGeneric Male MediumNormalNo SmileNormalNoneNormalNoneAmberWhiteNo,Dark Brown,Generic Male Medium,Normal,No Smile,Normal,None,Normal,None,Amber,White,No,Y
+Susan Collins,480,0.913,ME,SEN,R,F,0,FBrownFemale ShortNormalBig SmileNormalNoneNormalNoneGreenWhitemild,Brown,Female Short,Normal,Big Smile,Normal,None,Normal,None,Green,White,mild,Y
+Angus King,578,0.839,ME,SEN,I,M,0,MDark BlondeReceding HairlineNormalBig SmileNormalMoustacheNormalNoneBluewhiteYes,Dark Blonde,Receding Hairline,Normal,Big Smile,Normal,Moustache,Normal,None,Blue,white,Yes,Y
+Jack Bergman,201,0.571,MI,1,R,M,0,MWhiteGeneric Male MediumNormalBig SmileBigNoneCheeksNoneBlue-GreyOrangeYes,White,Generic Male Medium,Normal,Big Smile,Big,None,Cheeks,None,Blue-Grey,Orange,Yes,Y
+Bill Huizenga,202,0.517,MI,2,R,M,0,MGrayGeneric Male MediumNormalBig SmileBigNoneNormalNoneBrownWhiteMild,Gray,Generic Male Medium,Normal,Big Smile,Big,None,Normal,None,Brown,White,Mild,Y
+Peter Meijer,203,0.759,MI,3,R,M,0,MRedGeneric Male MediumNormalNormalNormalBeardNormalNoneBrownWhiteNo,Red,Generic Male Medium,Normal,Normal,Normal,Beard,Normal,None,Brown,White,No,Y
+John Moolenaar,204,0.469,MI,4,R,M,0,MLight BrownReceding HairlineNormalSerious SmileNormalNoneChinNoneBrownWhiteMild,Light Brown,Receding Hairline,Normal,Serious Smile,Normal,None,Chin,None,Brown,White,Mild,Y
+Dan Kildee,205,0.633,MI,5,D,M,0,MDark GrayReceding HairlineProminentSerious SmileNormalNoneNormalNoneGreyWhiteYes,Dark Gray,Receding Hairline,Prominent,Serious Smile,Normal,None,Normal,None,Grey,White,Yes,Y
+Fred Upton,206,0.724,MI,6,R,M,0,MLight GrayGeneric Male MediumNormalSerious SmileBigNoneCheeksNoneBrownWhiteMild,Light Gray,Generic Male Medium,Normal,Serious Smile,Big,None,Cheeks,None,Brown,White,Mild,Y
+Tim Walberg,207,0.493,MI,7,R,M,0,MBrownReceding HairlineNormalNormalNormalNoneChinNoneBrownWhiteYes,Brown,Receding Hairline,Normal,Normal,Normal,None,Chin,None,Brown,White,Yes,Y
+Elissa Slotkin,208,0.752,MI,8,D,M,0,MLight BrownFemale LongNormalSmirkBigNoneNormalNoneHazelWhiteNo,Light Brown,Female Long,Normal,Smirk,Big,None,Normal,None,Hazel,White,No,Y
+Andy Levin,209,0.619,MI,9,D,M,0,MBlackGeneric Male MediumNormalNormalNormalNoneChinNoneBrownWhiteYes,Black,Generic Male Medium,Normal,Normal,Normal,None,Chin,None,Brown,White,Yes,Y
+Lisa McClain,210,0.469,MI,10,R,F,0,FRedFemale LongNormalBig SmileBigNoneNormalNoneBrownWhiteMild,Red,Female Long,Normal,Big Smile,Big,None,Normal,None,Brown,White,Mild,Y
+Haley Stevens,211,0.752,MI,11,D,F,0,FBrownFemale LongNormalSerious SmileNormalNoneCheeksNoneBlue-GreyWhiteNo,Brown,Female Long,Normal,Serious Smile,Normal,None,Cheeks,None,Blue-Grey,White,No,Y
+Debbie Dingell,212,0.721,MI,12,D,F,0,FLight BlondeFemale LongNormalNo SmileNormalNoneNormalNoneBlueWhiteYes,Light Blonde,Female Long,Normal,No Smile,Normal,None,Normal,None,Blue,White,Yes,Y
+Rashida Tlaib,213,0.881,MI,13,D,F,0,FBlackFemale LongNormalBig SmileBigNoneCheeksGlassesBrownBrownMild,Black,Female Long,Normal,Big Smile,Big,None,Cheeks,Glasses,Brown,Brown,Mild,Y
+Brenda Lawrence,214,0.667,MI,14,D,F,0,FGrayFemale ShortNormalBig SmileNormalNoneNormalNoneBrownBlackNo,Gray,Female Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Black,No,Y
+Gary Peters,484,0.693,MI,SEN,D,M,0,MDark GrayGeneric Male MediumNormalSerious SmileNormalBeardNormalGlassesAmberWhiteNo,Dark Gray,Generic Male Medium,Normal,Serious Smile,Normal,Beard,Normal,Glasses,Amber,White,No,Y
+Debbie Stabenow,483,0.674,MI,SEN,D,F,0,FBlondeFemale ShortNormalBig SmileNormalNoneNormalNoneBlueWhiteNo,Blonde,Female Short,Normal,Big Smile,Normal,None,Normal,None,Blue,White,No,Y
+Jim Hagedorn,215,0.558,MN,1,R,M,0,MDark BlondeReceding HairlineNormalSerious SmileNormalNoneCheeksGlassesBrownWhiteMild,Dark Blonde,Receding Hairline,Normal,Serious Smile,Normal,None,Cheeks,Glasses,Brown,White,Mild,Y
+Angie Craig,216,0.673,MN,2,D,F,0,FDark BrownFemale LongNormalBig SmileNormalNoneCheeksNoneAmberWhiteNo,Dark Brown,Female Long,Normal,Big Smile,Normal,None,Cheeks,None,Amber,White,No,Y
+Dean Phillips,217,0.653,MN,3,D,M,0,MBrownGeneric Male MediumProminentNormalNormalNoneNormalNoneBrownWhiteYes,Brown,Generic Male Medium,Prominent,Normal,Normal,None,Normal,None,Brown,White,Yes,Y
+Betty McCollum,218,0.578,MN,4,D,F,0,FGrayFemale BobNormalBig SmileNormalNoneNormalNoneBrownWhiteYes,Gray,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Brown,White,Yes,Y
+Ilhan Omar,219,0.901,MN,5,D,F,0,FBrownHeadscarfNormalNormalNormalNoneNormalNose PiercingBrownBrownNo,Brown,Headscarf,Normal,Normal,Normal,None,Normal,Nose Piercing,Brown,Brown,No,Y
+Tom Emmer,220,0.585,MN,6,R,M,0,MWhiteGeneric Male MediumProminentSerious SmileBigNoneCheeksNoneBlueWhiteYes,White,Generic Male Medium,Prominent,Serious Smile,Big,None,Cheeks,None,Blue,White,Yes,Y
+Michelle Fischbach,221,0.687,MN,7,R,F,0,FBlondeFemale BobNormalSerious SmileNormalNoneNormalGlassesBrownWhiteYes,Blonde,Female Bob,Normal,Serious Smile,Normal,None,Normal,Glasses,Brown,White,Yes,Y
+Pete Stauber,222,0.534,MN,8,R,M,0,MWhiteBaldNormalBig SmileBigNoneNormalNoneBlueWhiteYes,White,Bald,Normal,Big Smile,Big,None,Normal,None,Blue,White,Yes,Y
+Amy Klobuchar,585,0.849,MN,SEN,D,F,0,FBrownFemale ShortNormalBig SmileBigNoneCheeksNonehazelwhiteMild,Brown,Female Short,Normal,Big Smile,Big,None,Cheeks,None,hazel,white,Mild,Y
+Tina Smith,586,0.798,MN,SEN,D,F,0,FLight BrownFemale BobNormalSerious SmileNormalNoneNormalNoneAmberwhitemild,Light Brown,Female Bob,Normal,Serious Smile,Normal,None,Normal,None,Amber,white,mild,Y
+Cori Bush,227,0.861,MO,1,D,F,0,FBlackFemale LongProminentSerious SmileNormalNoneCheeksNoneBrownBlackNo,Black,Female Long,Prominent,Serious Smile,Normal,None,Cheeks,None,Brown,Black,No,Y
+Ann Wagner,228,0.684,MO,2,R,F,0,FBlondeFemale LongNormalBig SmileNormalNoneChinNoneBrownWhiteYes,Blonde,Female Long,Normal,Big Smile,Normal,None,Chin,None,Brown,White,Yes,Y
+Blaine Luetkemeyer,229,0.446,MO,3,R,M,0,MDark GrayGeneric Male MediumProminentThin LipsBigNoneNormalGlassesBlueWhiteYes,Dark Gray,Generic Male Medium,Prominent,Thin Lips,Big,None,Normal,Glasses,Blue,White,Yes,Y
+Vicky Hartzler,230,0.531,MO,4,R,F,0,FDark BrownFemale BobNormalBig SmileNormalNoneCheeksNoneHazelWhiteMild,Dark Brown,Female Bob,Normal,Big Smile,Normal,None,Cheeks,None,Hazel,White,Mild,Y
+Emanuel Cleaver,231,0.714,MO,5,D,M,0,MDark GrayGeneric ShortNormalNormalNormalNoneNormalGlassesBrownBlackNo,Dark Gray,Generic Short,Normal,Normal,Normal,None,Normal,Glasses,Brown,Black,No,Y
+Sam Graves,232,0.48,MO,6,R,M,0,MBrownGeneric Male MediumNormalNormalBigNoneCheeksNoneBrownTanMild,Brown,Generic Male Medium,Normal,Normal,Big,None,Cheeks,None,Brown,Tan,Mild,Y
+Billy Long,233,0.558,MO,7,R,M,0,MGrayReceding HairlineNormalSneerBigNoneCheeksGlassesBrownWhiteNo,Gray,Receding Hairline,Normal,Sneer,Big,None,Cheeks,Glasses,Brown,White,No,Y
+Jason Smith,234,0.844,MO,8,R,M,0,MLight BrownReceding HairlineNormalBig SmileBigNoneNormalNoneGreyWhiteNo,Light Brown,Receding Hairline,Normal,Big Smile,Big,None,Normal,None,Grey,White,No,Y
+Josh Hawley,487,0.876,MO,SEN,R,M,0,MBrownGeneric Male MediumProminentSerious SmileBigNoneChinNoneAmberWhiteNo,Brown,Generic Male Medium,Prominent,Serious Smile,Big,None,Chin,None,Amber,White,No,Y
+Roy Blunt,589,0.72,MO,SEN,R,M,0,MGrayGeneric Male MediumProminentBig SmileNormalNoneCheeksNoneBluewhitemild,Gray,Generic Male Medium,Prominent,Big Smile,Normal,None,Cheeks,None,Blue,white,mild,Y
+Gregorio Sablan,301,0.4,MP,1,D,M,0,MGrayReceding HairlineNormalSmirkNormalNoneNormalNoneBrownOrangeYes,Gray,Receding Hairline,Normal,Smirk,Normal,None,Normal,None,Brown,Orange,Yes,Y
+Trent Kelly,223,0.595,MS,1,R,M,0,MDark GrayReceding HairlineNormalSmirkNormalNoneChinNoneBrownWhiteYes,Dark Gray,Receding Hairline,Normal,Smirk,Normal,None,Chin,None,Brown,White,Yes,Y
+Bennie Thompson,224,0.806,MS,2,D,M,0,MGrayBaldNormalNo SmileNormalBeardNormalNoneBrownBlackNo,Gray,Bald,Normal,No Smile,Normal,Beard,Normal,None,Brown,Black,No,Y
+Michael Guest,225,0.514,MS,3,R,M,0,MBlondeGeneric Male MediumNormalBig SmileNormalNoneCheeksNoneBlueWhiteNo,Blonde,Generic Male Medium,Normal,Big Smile,Normal,None,Cheeks,None,Blue,White,No,Y
+Steven Palazzo,226,0.51,MS,4,R,M,0,MBrownGeneric Male MediumNormalNormalNormalNoneCheeksNoneBrownWhiteYes,Brown,Generic Male Medium,Normal,Normal,Normal,None,Cheeks,None,Brown,White,Yes,Y
+Cindy Hyde-Smith,489,0.739,MS,SEN,R,F,0,FDark BlondeFemale BobNormalSerious SmileNormalNoneCheeksNoneHazelWhiteNo,Dark Blonde,Female Bob,Normal,Serious Smile,Normal,None,Cheeks,None,Hazel,White,No,Y
+Roger Wicker,587,0.596,MS,SEN,R,M,0,MGrayGeneric Male MediumNormalBig SmileNormalNoneNormalGlasseshazelwhitemild,Gray,Generic Male Medium,Normal,Big Smile,Normal,None,Normal,Glasses,hazel,white,mild,Y
+Matt Rosendale,235,0.667,MT,1,R,M,0,MGrayReceding HairlineNormalSerious SmileNormalNoneChinNoneBrownWhiteYes,Gray,Receding Hairline,Normal,Serious Smile,Normal,None,Chin,None,Brown,White,Yes,Y
+Jon Tester,491,0.752,MT,SEN,D,M,0,MBrownGeneric ShortNormalNormalNormalNoneCheeksNoneHazelWhiteMild,Brown,Generic Short,Normal,Normal,Normal,None,Cheeks,None,Hazel,White,Mild,Y
+Steve Daines,592,0.665,MT,SEN,R,M,0,MDark GrayGeneric Male MediumNormalThin LipsNormalNoneNormalNoneAmberwhitemild,Dark Gray,Generic Male Medium,Normal,Thin Lips,Normal,None,Normal,None,Amber,white,mild,Y
+G.K. Butterfield,287,0.646,NC,1,D,M,0,MGrayGeneric Male MediumNormalNormalNormalMoustacheNormalNoneBrownWhiteNo,Gray,Generic Male Medium,Normal,Normal,Normal,Moustache,Normal,None,Brown,White,No,Y
+Deborah Ross,288,0.629,NC,2,D,F,0,FLight GrayFemale ShortNormalBig SmileBigNoneCheeksNoneHazelWhiteMild,Light Gray,Female Short,Normal,Big Smile,Big,None,Cheeks,None,Hazel,White,Mild,Y
+Greg Murphy,289,0.483,NC,3,R,M,0,MBrownReceding HairlineNormalNormalNormalNoneNormalGlassesBlueWhiteYes,Brown,Receding Hairline,Normal,Normal,Normal,None,Normal,Glasses,Blue,White,Yes,Y
+David Price,290,0.599,NC,4,D,M,0,MWhiteReceding HairlineNormalNo SmileBigNoneCheeksGlassesBlueWhiteYes,White,Receding Hairline,Normal,No Smile,Big,None,Cheeks,Glasses,Blue,White,Yes,Y
+Virginia Foxx,291,0.605,NC,5,R,F,0,FWhiteFemale ShortNormalSerious SmileBigNoneNormalNoneBrownOrangeYes,White,Female Short,Normal,Serious Smile,Big,None,Normal,None,Brown,Orange,Yes,Y
+Kathy Manning,292,0.51,NC,6,D,F,0,FBrownFemale BobNormalBig SmileNormalNoneChinNoneBrownWhiteMild,Brown,Female Bob,Normal,Big Smile,Normal,None,Chin,None,Brown,White,Mild,Y
+David Rouzer,293,0.422,NC,7,R,M,0,MDark BrownGeneric Male MediumProminentNormalNormalNoneChinNoneBrownOrangeNo,Dark Brown,Generic Male Medium,Prominent,Normal,Normal,None,Chin,None,Brown,Orange,No,Y
+Richard Hudson,294,0.473,NC,8,R,M,0,MBrownGeneric Male MediumNormalSmirkNormalNoneCheeksNoneBrownWhiteMild,Brown,Generic Male Medium,Normal,Smirk,Normal,None,Cheeks,None,Brown,White,Mild,Y
+Dan Bishop,295,0.585,NC,9,R,M,0,MGrayReceding HairlineNormalBig SmileBigNoneNormalNoneBrownWhiteYes,Gray,Receding Hairline,Normal,Big Smile,Big,None,Normal,None,Brown,White,Yes,Y
+Patrick McHenry,296,0.473,NC,10,R,M,0,MWhiteGeneric Male MediumNormalSerious SmileNormalNoneCheeksGlassesBrownWhiteNo,White,Generic Male Medium,Normal,Serious Smile,Normal,None,Cheeks,Glasses,Brown,White,No,Y
+Madison Cawthorn,297,0.748,NC,11,R,M,0,MDark BlondeGeneric Male MediumProminentSmirkNormalNoneChinNoneGreenWhiteNo,Dark Blonde,Generic Male Medium,Prominent,Smirk,Normal,None,Chin,None,Green,White,No,Y
+Alma Adams,298,0.714,NC,12,D,F,0,FBrownGeneric ShortNormalNormalNormalNoneNormalGlassesBrownBrownNo,Brown,Generic Short,Normal,Normal,Normal,None,Normal,Glasses,Brown,Brown,No,Y
+Ted Budd,299,0.541,NC,13,R,M,0,MRedReceding HairlineNormalBig SmileNormalNoneCheeksNoneBlueWhiteNo,Red,Receding Hairline,Normal,Big Smile,Normal,None,Cheeks,None,Blue,White,No,Y
+Thom Tillis,496,0.706,NC,SEN,R,M,0,MLight GrayReceding HairlineNormalBig SmileBigNoneChinNoneBlueWhiteYes,Light Gray,Receding Hairline,Normal,Big Smile,Big,None,Chin,None,Blue,White,Yes,Y
+Richard Burr,495,0.661,NC,SEN,R,M,0,MGrayGeneric ShortNormalSmirkNormalNoneNormalNoneBlueWhitemild,Gray,Generic Short,Normal,Smirk,Normal,None,Normal,None,Blue,White,mild,Y
+Kelly Armstrong,300,0.595,ND,1,R,M,0,MDark GrayGeneric ShortProminentSmirkBigNoneCheeksNoneBrownWhiteYes,Dark Gray,Generic Short,Prominent,Smirk,Big,None,Cheeks,None,Brown,White,Yes,Y
+Kevin Cramer,608,0.564,ND,SEN,R,M,0,MLight GrayReceding HairlineNormalSerious SmileNormalNoneNormalGlassesgreywhiteyes,Light Gray,Receding Hairline,Normal,Serious Smile,Normal,None,Normal,Glasses,grey,white,yes,Y
+John Hoeven,493,0.56,ND,SEN,R,M,0,MGrayGeneric Male MediumNormalNo SmileNormalMoustacheNormalNoneBrownWhiteMild,Gray,Generic Male Medium,Normal,No Smile,Normal,Moustache,Normal,None,Brown,White,Mild,Y
+Jeff Fortenberry,236,0.548,NE,1,R,M,0,MDark GrayGeneric Male MediumNormalSerious SmileBigNoneCheeksNoneHazelTanYes,Dark Gray,Generic Male Medium,Normal,Serious Smile,Big,None,Cheeks,None,Hazel,Tan,Yes,Y
+Don Bacon,237,0.755,NE,2,R,M,0,MDark GrayGeneric Male MediumNormalThin LipsNormalNoneNormalNoneBrownWhiteYes,Dark Gray,Generic Male Medium,Normal,Thin Lips,Normal,None,Normal,None,Brown,White,Yes,Y
+Adrian Smith,238,0.844,NE,3,R,M,0,MBrownReceding HairlineNormalNormalNormalNoneChinNoneBlue-GreyWhiteNo,Brown,Receding Hairline,Normal,Normal,Normal,None,Chin,None,Blue-Grey,White,No,Y
+Ben Sasse,497,0.757,NE,SEN,R,M,0,MBrownGeneric Male MediumProminentBig SmileNormalNoneChinNoneHazelWhiteNo,Brown,Generic Male Medium,Prominent,Big Smile,Normal,None,Chin,None,Hazel,White,No,Y
+Deb Fischer,498,0.61,NE,SEN,R,F,0,FLight BrownFemale BobNormalBig SmileNormalNoneCheeksNoneBrownWhiteMild,Light Brown,Female Bob,Normal,Big Smile,Normal,None,Cheeks,None,Brown,White,Mild,Y
+Chris Pappas,243,0.745,NH,1,D,M,0,MBrownGeneric Male MediumNormalSerious SmileNormalNoneCheeksNoneBrownWhiteNo,Brown,Generic Male Medium,Normal,Serious Smile,Normal,None,Cheeks,None,Brown,White,No,Y
+Ann McLane Kuster,244,0.697,NH,2,D,F,0,FBrownFemale BobNormalNormalNormalNoneNormalGlassesBrownBrownNo,Brown,Female Bob,Normal,Normal,Normal,None,Normal,Glasses,Brown,Brown,No,Y
+Jeanne Shaheen,499,0.702,NH,SEN,D,F,0,FLight BrownFemale ShortNormalThin LipsBigNoneCheeksNoneBrownWhiteMild,Light Brown,Female Short,Normal,Thin Lips,Big,None,Cheeks,None,Brown,White,Mild,Y
+Maggie Hassan,500,0.651,NH,SEN,D,F,0,FBlondeFemale BobNormalThin LipsNormalNoneNormalNoneBlueWhiteMild,Blonde,Female Bob,Normal,Thin Lips,Normal,None,Normal,None,Blue,White,Mild,Y
+Donald Norcross,245,0.558,NJ,1,D,M,0,MBrownGeneric Male MediumNormalSerious SmileBigNoneCheeksNoneBrownWhiteNo,Brown,Generic Male Medium,Normal,Serious Smile,Big,None,Cheeks,None,Brown,White,No,Y
+Jeff Van Drew,246,0.755,NJ,2,R,M,0,MDark GrayGeneric ShortNormalSmirkBigNoneCheeksNoneBlueOrangeYes,Dark Gray,Generic Short,Normal,Smirk,Big,None,Cheeks,None,Blue,Orange,Yes,Y
+Andy Kim,247,0.803,NJ,3,D,M,0,MBlackReceding HairlineProminentSerious SmileBigNoneCheeksGlassesBrownWhiteNo,Black,Receding Hairline,Prominent,Serious Smile,Big,None,Cheeks,Glasses,Brown,White,No,Y
+Chris Smith,248,0.844,NJ,4,R,M,0,MDark GrayGeneric Male MediumNormalNo SmileNormalNoneCheeksNoneBlueWhiteNo,Dark Gray,Generic Male Medium,Normal,No Smile,Normal,None,Cheeks,None,Blue,White,No,Y
+Josh Gottheimer,249,0.687,NJ,5,D,M,0,MBrownGeneric ShortNormalBig SmileNormalNoneChinNoneBrownWhiteYes,Brown,Generic Short,Normal,Big Smile,Normal,None,Chin,None,Brown,White,Yes,Y
+Frank Pallone,250,0.616,NJ,6,D,M,0,MGrayGeneric Male MediumNormalSerious SmileNormalNoneNormalNoneBrownOrangeYes,Gray,Generic Male Medium,Normal,Serious Smile,Normal,None,Normal,None,Brown,Orange,Yes,Y
+Tom Malinowski,251,0.697,NJ,7,D,M,0,MDark GrayGeneric Male MediumProminentNormalBigNoneChinNoneBlueWhiteMild,Dark Gray,Generic Male Medium,Prominent,Normal,Big,None,Chin,None,Blue,White,Mild,Y
+Albio Sires,252,0.599,NJ,8,D,M,0,MBrownReceding HairlineNormalSerious SmileBigNoneChinNoneBrownOrangeMild,Brown,Receding Hairline,Normal,Serious Smile,Big,None,Chin,None,Brown,Orange,Mild,Y
+Bill Pascrell,253,0.544,NJ,9,D,M,0,MWhiteReceding HairlineNormalSerious SmileNormalNoneNormalGlassesBrownWhiteMild,White,Receding Hairline,Normal,Serious Smile,Normal,None,Normal,Glasses,Brown,White,Mild,Y
+Donald Payne Jr.,254,0.554,NJ,10,D,M,0,MBrownGeneric ShortNormalNormalNormalMoustacheNormalNoneBrownBrownNo,Brown,Generic Short,Normal,Normal,Normal,Moustache,Normal,None,Brown,Brown,No,Y
+Mikie Sherrill,255,0.711,NJ,11,D,F,0,FBrownFemale LongNormalNormalNormalNoneNormalNoneHazelWhiteNo,Brown,Female Long,Normal,Normal,Normal,None,Normal,None,Hazel,White,No,Y
+Bonnie Watson Coleman,256,0.653,NJ,12,D,F,0,FGrayGeneric ShortNormalNormalNormalNoneCheeksNoneBrownBrownNo,Gray,Generic Short,Normal,Normal,Normal,None,Cheeks,None,Brown,Brown,No,Y
+Cory Booker,600,0.839,NJ,SEN,D,M,0,MNoneBaldNormalSerious SmileNormalNoneNormalNonehazelbrownno,None,Bald,Normal,Serious Smile,Normal,None,Normal,None,hazel,brown,no,Y
+Bob Menendez,502,0.739,NJ,SEN,D,M,0,MGrayGeneric ShortNormalSerious SmileNormalNoneNormalGlassesBrownWhitemild,Gray,Generic Short,Normal,Serious Smile,Normal,None,Normal,Glasses,Brown,White,mild,Y
+Melanie Stansbury,257,0.4,NM,1,D,F,0,FRedFemale LongNormalSerious SmileNormalNoneNormalNoneBrownWhiteNo,Red,Female Long,Normal,Serious Smile,Normal,None,Normal,None,Brown,White,No,Y
+Yvette Herrell,258,0.697,NM,2,R,F,0,FDark BrownFemale ShortProminentBig SmileBigNoneChinNoneHazelWhiteYes,Dark Brown,Female Short,Prominent,Big Smile,Big,None,Chin,None,Hazel,White,Yes,Y
+Teresa Leger Fernandez,259,0.609,NM,3,D,F,0,FBlackFemale LongNormalBig SmileNormalNoneNormalNoneBrownWhiteYes,Black,Female Long,Normal,Big Smile,Normal,None,Normal,None,Brown,White,Yes,Y
+Ben Ray Lujan,503,0.573,NM,SEN,D,M,0,MDark GrayGeneric Male MediumProminentSmirkBigNoneChinNoneBrownTanMild,Dark Gray,Generic Male Medium,Prominent,Smirk,Big,None,Chin,None,Brown,Tan,Mild,Y
+Martin Heinrich,504,0.55,NM,SEN,D,M,0,MDark GrayGeneric Male MediumNormalSmirkBigNoneChinNoneHazelOrangeNo,Dark Gray,Generic Male Medium,Normal,Smirk,Big,None,Chin,None,Hazel,Orange,No,Y
+Dina Titus,239,0.667,NV,1,D,F,0,FLight GrayFemale BobProminentBig SmileBigNoneNormalNoneBrownWhiteNo,Light Gray,Female Bob,Prominent,Big Smile,Big,None,Normal,None,Brown,White,No,Y
+Mark Amodei,240,0.616,NV,2,R,M,0,MDark BlondeGeneric Male MediumNormalThin LipsBigNoneCheeksGlassesBrownWhiteYes,Dark Blonde,Generic Male Medium,Normal,Thin Lips,Big,None,Cheeks,Glasses,Brown,White,Yes,Y
+Susie Lee,241,0.84,NV,3,D,F,0,FBlondeFemale BobNormalNormalNormalNoneNormalNoneGreenWhiteNo,Blonde,Female Bob,Normal,Normal,Normal,None,Normal,None,Green,White,No,Y
+Steven Horsford,242,0.66,NV,4,D,M,0,MBlackGeneric ShortNormalNormalNormalBeardNormalNoneBrownBlackNo,Black,Generic Short,Normal,Normal,Normal,Beard,Normal,None,Brown,Black,No,Y
+Catherine Cortez Masto,505,0.642,NV,SEN,D,F,0,FLight BrownFemale BobNormalBig SmileNormalNoneNormalNoneBrownOrangeNo,Light Brown,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Brown,Orange,No,Y
+Jacky Rosen,506,0.619,NV,SEN,D,F,0,FDark BrownFemale ShortProminentBig SmileNormalNoneChinNoneGreenWhiteNo,Dark Brown,Female Short,Prominent,Big Smile,Normal,None,Chin,None,Green,White,No,Y
+Lee Zeldin,260,0.81,NY,1,R,M,0,MBrownReceding HairlineNormalThin LipsNormalNoneNormalNoneBrownWhiteNo,Brown,Receding Hairline,Normal,Thin Lips,Normal,None,Normal,None,Brown,White,No,Y
+Andrew Garbarino,261,0.588,NY,2,R,M,0,MBlackBaldNormalBig SmileNormalBeardNormalNoneBrownWhiteNo,Black,Bald,Normal,Big Smile,Normal,Beard,Normal,None,Brown,White,No,Y
+Thomas Suozzi,262,0.667,NY,3,D,M,0,MBlackReceding HairlineNormalNo SmileBigNoneCheeksNoneBrownWhiteMild,Black,Receding Hairline,Normal,No Smile,Big,None,Cheeks,None,Brown,White,Mild,Y
+Kathleen Rice,263,0.765,NY,4,D,F,0,FBrownFemale LongNormalBig SmileNormalNoneNormalNoneGreenWhiteMild,Brown,Female Long,Normal,Big Smile,Normal,None,Normal,None,Green,White,Mild,Y
+Gregory Meeks,264,0.612,NY,5,D,M,0,MGrayGeneric ShortNormalNormalNormalNoneNormalGlassesBrownBlackNo,Gray,Generic Short,Normal,Normal,Normal,None,Normal,Glasses,Brown,Black,No,Y
+Grace Meng,265,0.707,NY,6,D,F,0,FBlackFemale LongNormalSerious SmileNormalNoneChinNoneBrownWhiteNo,Black,Female Long,Normal,Serious Smile,Normal,None,Chin,None,Brown,White,No,Y
+Nydia Velazquez,266,0.585,NY,7,D,F,0,FBrownFemale ShortNormalSerious SmileNormalNoneNormalNoneBrownBrownNo,Brown,Female Short,Normal,Serious Smile,Normal,None,Normal,None,Brown,Brown,No,Y
+Hakeem Jeffries,267,0.718,NY,8,D,M,0,MBrownGeneric ShortProminentNormalNormalNoneNormalNoneHazelBrownNo,Brown,Generic Short,Prominent,Normal,Normal,None,Normal,None,Hazel,Brown,No,Y
+Yvette Clarke,268,0.622,NY,9,D,F,0,FBlackGeneric ShortNormalBig SmileNormalNoneNormalNoneBrownBlackNo,Black,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Black,No,Y
+Jerry Nadler,269,0.755,NY,10,D,M,0,MLight BrownReceding HairlineNormalThin LipsNormalNoneCheeksGlassesBrownWhiteYes,Light Brown,Receding Hairline,Normal,Thin Lips,Normal,None,Cheeks,Glasses,Brown,White,Yes,Y
+Nicole Malliotakis,270,0.741,NY,11,R,F,0,FBlackFemale BobProminentNormalNormalNoneNormalNoneBrownWhiteNo,Black,Female Bob,Prominent,Normal,Normal,None,Normal,None,Brown,White,No,Y
+Carolyn Maloney,271,0.81,NY,12,D,F,0,FBlondeFemale LongNormalBig SmileNormalNoneCheeksNoneBrownWhiteYes,Blonde,Female Long,Normal,Big Smile,Normal,None,Cheeks,None,Brown,White,Yes,Y
+Adriano Espaillat,272,0.582,NY,13,D,M,0,MGrayGeneric ShortNormalNormalNormalNoneChinNoneBrownBrownYes,Gray,Generic Short,Normal,Normal,Normal,None,Chin,None,Brown,Brown,Yes,Y
+Alexandria Ocasio-Cortez,273,0.935,NY,14,D,F,0,FBlackFemale LongNormalSerious SmileNormalNoneCheeksNoneBrownOrangeNo,Black,Female Long,Normal,Serious Smile,Normal,None,Cheeks,None,Brown,Orange,No,Y
+Ritchie Torres,274,0.745,NY,15,D,M,0,MBlackGeneric ShortProminentBig SmileNormalNoneNormalNoneBrownBlackNo,Black,Generic Short,Prominent,Big Smile,Normal,None,Normal,None,Brown,Black,No,Y
+Jamaal Bowman,275,0.83,NY,16,D,M,0,MNoneBaldNormalNormalNormalNoneChinNoneBrownBlackNo,None,Bald,Normal,Normal,Normal,None,Chin,None,Brown,Black,No,Y
+Mondaire Jones,276,0.772,NY,17,D,M,0,MBlackGeneric ShortNormalBig SmileBigNoneCheeksNoneBrownBlackNo,Black,Generic Short,Normal,Big Smile,Big,None,Cheeks,None,Brown,Black,No,Y
+Sean Patrick Maloney,277,0.81,NY,18,D,M,0,MDark BlondeGeneric ShortNormalSerious SmileNormalNoneNormalNoneBlueWhiteYes,Dark Blonde,Generic Short,Normal,Serious Smile,Normal,None,Normal,None,Blue,White,Yes,Y
+Antonio Delgado,278,0.68,NY,19,D,M,0,MBlackReceding HairlineNormalBig SmileNormalNoneNormalNoneBrownBlackNo,Black,Receding Hairline,Normal,Big Smile,Normal,None,Normal,None,Brown,Black,No,Y
+Paul Tonko,279,0.582,NY,20,D,M,0,MWhiteBaldNormalNormalBigNoneNormalGlassesGreyWhiteYes,White,Bald,Normal,Normal,Big,None,Normal,Glasses,Grey,White,Yes,Y
+Elise Stefanik,280,0.83,NY,21,R,F,0,FBrownFemale LongNormalNormalNormalNoneCheeksNoneBrownWhiteNo,Brown,Female Long,Normal,Normal,Normal,None,Cheeks,None,Brown,White,No,Y
+Claudia Tenney,281,0.4,NY,22,R,F,0,FBlondeFemale BobNormalBig SmileNormalNoneNormalNoneGreenWhiteMild,Blonde,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Green,White,Mild,Y
+Tom Reed,282,0.616,NY,23,R,M,0,MLight BrownBaldNormalSerious SmileBigNoneNormalNoneBrownWhiteMild,Light Brown,Bald,Normal,Serious Smile,Big,None,Normal,None,Brown,White,Mild,Y
+John Katko,283,0.731,NY,24,R,M,0,MLight GrayGeneric Male MediumNormalSerious SmileBigNoneNormalNoneBrownWhiteMild,Light Gray,Generic Male Medium,Normal,Serious Smile,Big,None,Normal,None,Brown,White,Mild,Y
+Joseph Morelle,284,0.517,NY,25,D,M,0,MDark GrayGeneric ShortNormalSmirkBigNoneCheeksNoneBrownWhiteMild,Dark Gray,Generic Short,Normal,Smirk,Big,None,Cheeks,None,Brown,White,Mild,Y
+Brian Higgins,285,0.568,NY,26,D,M,0,MBrownGeneric Male MediumNormalSerious SmileBigNoneNormalNoneBlueWhiteNo,Brown,Generic Male Medium,Normal,Serious Smile,Big,None,Normal,None,Blue,White,No,Y
+Chris Jacobs,286,0.531,NY,27,R,M,0,MLight GrayGeneric Male MediumNormalBig SmileBigNoneChinNoneBlueWhiteMild,Light Gray,Generic Male Medium,Normal,Big Smile,Big,None,Chin,None,Blue,White,Mild,Y
+Chuck Schumer,603,0.927,NY,SEN,D,M,0,MLight GrayReceding HairlineNormalSmirkBigNoneChinNonehazelTanMild,Light Gray,Receding Hairline,Normal,Smirk,Big,None,Chin,None,hazel,Tan,Mild,Y
+Kirsten Gillibrand,604,0.862,NY,SEN,D,F,0,FLight BlondeFemale BobNormalBig SmileNormalNoneNormalNoneGreenwhiteno,Light Blonde,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Green,white,no,Y
+Steve Chabot,302,0.595,OH,1,R,M,0,MLight GrayReceding HairlineNormalBig SmileNormalNoneCheeksNoneBlueWhiteYes,Light Gray,Receding Hairline,Normal,Big Smile,Normal,None,Cheeks,None,Blue,White,Yes,Y
+Brad Wenstrup,303,0.476,OH,2,R,M,0,MGrayGeneric ShortProminentSmirkBigNoneChinNoneBlue-GreyWhiteMild,Gray,Generic Short,Prominent,Smirk,Big,None,Chin,None,Blue-Grey,White,Mild,Y
+Joyce Beatty,304,0.639,OH,3,D,F,0,FGrayFemale BobNormalNormalNormalNoneNormalNoneBrownBlackYes,Gray,Female Bob,Normal,Normal,Normal,None,Normal,None,Brown,Black,Yes,Y
+Jim Jordan,305,0.782,OH,4,R,M,0,MDark BlondeGeneric ShortNormalNormalNormalNoneChinNoneBrownWhiteMild,Dark Blonde,Generic Short,Normal,Normal,Normal,None,Chin,None,Brown,White,Mild,Y
+Bob Latta,306,0.439,OH,5,R,M,0,MLight GrayReceding HairlineNormalSerious SmileNormalNoneChinNoneBrownWhiteMild,Light Gray,Receding Hairline,Normal,Serious Smile,Normal,None,Chin,None,Brown,White,Mild,Y
+Bill Johnson,307,0.816,OH,6,R,M,0,MGrayGeneric ShortProminentBig SmileBigNoneNormalNoneBlueWhiteYes,Gray,Generic Short,Prominent,Big Smile,Big,None,Normal,None,Blue,White,Yes,Y
+Bob Gibbs,308,0.48,OH,7,R,M,0,MWhiteGeneric ShortNormalSmirkNormalNoneNormalNoneBlueWhiteYes,White,Generic Short,Normal,Smirk,Normal,None,Normal,None,Blue,White,Yes,Y
+Warren Davidson,309,0.51,OH,8,R,M,0,MDark BlondeReceding HairlineNormalBig SmileNormalNoneNormalNoneHazelWhiteYes,Dark Blonde,Receding Hairline,Normal,Big Smile,Normal,None,Normal,None,Hazel,White,Yes,Y
+Marcy Kaptur,310,0.626,OH,9,D,F,0,FDark BlondeGeneric ShortNormalBig SmileNormalNoneNormalNoneBlueWhiteYes,Dark Blonde,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Blue,White,Yes,Y
+Mike Turner,311,0.476,OH,10,R,M,0,MDark BlondeGeneric ShortNormalNormalBigNoneCheeksNoneBlueWhiteYes,Dark Blonde,Generic Short,Normal,Normal,Big,None,Cheeks,None,Blue,White,Yes,Y
+Shontel Brown,312,0.4,OH,11,D,F,0,FBlackFemale ShortNormalBig SmileNormalNoneNormalNoneBrownBlackNo,Black,Female Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Black,No,Y
+Troy Balderson,313,0.466,OH,12,R,M,0,MBlackGeneric ShortNormalSmirkNormalNoneNormalNoneGreenWhiteYes,Black,Generic Short,Normal,Smirk,Normal,None,Normal,None,Green,White,Yes,Y
+Tim Ryan,314,0.762,OH,13,D,M,0,MDark BlondeGeneric ShortProminentBig SmileBigNoneCheeksNoneHazelWhiteMild,Dark Blonde,Generic Short,Prominent,Big Smile,Big,None,Cheeks,None,Hazel,White,Mild,Y
+David Joyce,315,0.486,OH,14,R,M,0,MGrayBaldNormalThin LipsNormalNoneNormalNoneBlueWhiteYes,Gray,Bald,Normal,Thin Lips,Normal,None,Normal,None,Blue,White,Yes,Y
+Mike Carey,316,0.4,OH,15,R,M,0,MDark GrayGeneric Male MediumProminentBig SmileNormalNoneChinNoneGreyWhiteYes,Dark Gray,Generic Male Medium,Prominent,Big Smile,Normal,None,Chin,None,Grey,White,Yes,Y
+Anthony Gonzalez,317,0.765,OH,16,R,M,0,MGrayBaldNormalBig SmileNormalNoneNormalNoneGreenWhiteNo,Gray,Bald,Normal,Big Smile,Normal,None,Normal,None,Green,White,No,Y
+Sherrod Brown,510,0.771,OH,SEN,D,M,0,MDark GrayReceding HairlineNormalBig SmileNormalNoneNormalNoneblue-greyWhitemild,Dark Gray,Receding Hairline,Normal,Big Smile,Normal,None,Normal,None,blue-grey,White,mild,Y
+Rob Portman,610,0.739,OH,SEN,R,M,0,MGrayGeneric ShortNormalBig SmileNormalNoneNormalNonegreywhitemild,Gray,Generic Short,Normal,Big Smile,Normal,None,Normal,None,grey,white,mild,Y
+Kevin Hern,318,0.493,OK,1,R,M,0,MBlondeReceding HairlineNormalBig SmileNormalNoneChinNoneBlueWhiteYes,Blonde,Receding Hairline,Normal,Big Smile,Normal,None,Chin,None,Blue,White,Yes,Y
+Markwayne Mullin,319,0.548,OK,2,R,M,0,MBrownGeneric ShortNormalSmirkBigNoneNormalNoneGreenWhiteMild,Brown,Generic Short,Normal,Smirk,Big,None,Normal,None,Green,White,Mild,Y
+Frank Lucas,320,0.473,OK,3,R,M,0,MGrayGeneric ShortNormalNormalNormalNoneNormalGlassesBlueWhiteYes,Gray,Generic Short,Normal,Normal,Normal,None,Normal,Glasses,Blue,White,Yes,Y
+Tom Cole,321,0.673,OK,4,R,M,0,MGrayReceding HairlineNormalBig SmileNormalNoneChinNoneGreenWhiteYes,Gray,Receding Hairline,Normal,Big Smile,Normal,None,Chin,None,Green,White,Yes,Y
+Stephanie Bice,322,0.66,OK,5,R,F,0,FDark BrownFemale LongNormalNormalNormalNoneNormalNoneBrownWhiteNo,Dark Brown,Female Long,Normal,Normal,Normal,None,Normal,None,Brown,White,No,Y
+Jim Inhofe,512,0.674,OK,SEN,R,M,0,MGrayReceding HairlineNormalSerious SmileNormalNoneNormalGlassesGreyWhiteYes,Gray,Receding Hairline,Normal,Serious Smile,Normal,None,Normal,Glasses,Grey,White,Yes,Y
+James Lankford,511,0.628,OK,SEN,R,M,0,MRedGeneric Male MediumNormalBig SmileNormalNoneNormalNoneBrownWhiteNo,Red,Generic Male Medium,Normal,Big Smile,Normal,None,Normal,None,Brown,White,No,Y
+Suzanne Bonamici,323,0.534,OR,1,D,F,0,FBrownFemale ShortNormalThin LipsNormalNoneNormalNoneBrownWhiteYes,Brown,Female Short,Normal,Thin Lips,Normal,None,Normal,None,Brown,White,Yes,Y
+Cliff Bentz,324,0.446,OR,2,R,M,0,MLight GrayGeneric ShortProminentThin LipsBigNoneCheeksNoneHazelWhiteYes,Light Gray,Generic Short,Prominent,Thin Lips,Big,None,Cheeks,None,Hazel,White,Yes,Y
+Earl Blumenauer,325,0.582,OR,3,D,M,0,MGrayReceding HairlineNormalSmirkBigNoneCheeksGlassesBrownWhiteYes,Gray,Receding Hairline,Normal,Smirk,Big,None,Cheeks,Glasses,Brown,White,Yes,Y
+Peter DeFazio,326,0.711,OR,4,D,M,0,MGrayBaldNormalNo SmileNormalNoneNormalGlassesBrownWhiteMild,Gray,Bald,Normal,No Smile,Normal,None,Normal,Glasses,Brown,White,Mild,Y
+Kurt Schrader,327,0.602,OR,5,D,M,0,MGrayGeneric ShortNormalNormalNormalNoneNormalNoneHazelOrangeYes,Gray,Generic Short,Normal,Normal,Normal,None,Normal,None,Hazel,Orange,Yes,Y
+Jeff Merkley,614,0.656,OR,SEN,D,M,0,MGrayGeneric ShortNormalSmirkNormalNoneNormalNonehazelwhiteMild,Gray,Generic Short,Normal,Smirk,Normal,None,Normal,None,hazel,white,Mild,Y
+Ron Wyden,514,0.624,OR,SEN,D,M,0,MLight BrownReceding HairlineNormalSmirkNormalNoneNormalNoneBrownWhitemild,Light Brown,Receding Hairline,Normal,Smirk,Normal,None,Normal,None,Brown,White,mild,Y
+Brian Fitzpatrick,328,0.738,PA,1,R,M,0,MDark GrayGeneric ShortNormalBig SmileBigNoneCheeksNoneHazelWhiteNo,Dark Gray,Generic Short,Normal,Big Smile,Big,None,Cheeks,None,Hazel,White,No,Y
+Brendan Boyle,329,0.633,PA,2,D,M,0,MDark GrayGeneric ShortNormalBig SmileNormalNoneCheeksNoneGreenWhiteNo,Dark Gray,Generic Short,Normal,Big Smile,Normal,None,Cheeks,None,Green,White,No,Y
+Dwight Evans,330,0.544,PA,3,D,M,0,MBlackBaldNormalNormalNormalMoustacheNormalNoneBrownBlackYes,Black,Bald,Normal,Normal,Normal,Moustache,Normal,None,Brown,Black,Yes,Y
+Madeleine Dean,331,0.636,PA,4,D,F,0,FDark BlondeFemale LongProminentNo SmileNormalNoneCheeksNoneHazelWhiteMild,Dark Blonde,Female Long,Prominent,No Smile,Normal,None,Cheeks,None,Hazel,White,Mild,Y
+MARY GAY SCANLON,332,0.602,PA,5,D,F,0,FLight BlondeFemale LongProminentSerious SmileBigNoneChinNoneBlueWhiteMild,Light Blonde,Female Long,Prominent,Serious Smile,Big,None,Chin,None,Blue,White,Mild,Y
+Chrissy Houlahan,333,0.582,PA,6,D,F,0,FLight BlondeFemale ShortNormalBig SmileNormalNoneNormalNoneBlue-GreyWhiteYes,Light Blonde,Female Short,Normal,Big Smile,Normal,None,Normal,None,Blue-Grey,White,Yes,Y
+Susan Wild,334,0.643,PA,7,D,F,0,FLight BlondeFemale BobNormalNormalNormalNoneChinNoneBlueWhiteYes,Light Blonde,Female Bob,Normal,Normal,Normal,None,Chin,None,Blue,White,Yes,Y
+Matt Cartwright,335,0.582,PA,8,D,M,0,MDark GrayGeneric ShortProminentSmirkNormalNoneChinNoneBlue-GreyTanYes,Dark Gray,Generic Short,Prominent,Smirk,Normal,None,Chin,None,Blue-Grey,Tan,Yes,Y
+Dan Meuser,336,0.401,PA,9,R,M,0,MDark GrayGeneric ShortNormalBig SmileNormalNoneNormalNoneHazelOrangeNo,Dark Gray,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Hazel,Orange,No,Y
+Scott Perry,337,0.527,PA,10,R,M,0,MDark GrayGeneric ShortNormalBig SmileBigNoneCheeksNoneHazelWhiteMild,Dark Gray,Generic Short,Normal,Big Smile,Big,None,Cheeks,None,Hazel,White,Mild,Y
+Lloyd Smucker,338,0.476,PA,11,R,M,0,MDark GrayReceding HairlineNormalBig SmileBigNoneNormalNoneBlueWhiteYes,Dark Gray,Receding Hairline,Normal,Big Smile,Big,None,Normal,None,Blue,White,Yes,Y
+Fred Keller,339,0.415,PA,12,R,M,0,MGrayGeneric ShortNormalBig SmileBigNoneCheeksNoneBlueWhiteMild,Gray,Generic Short,Normal,Big Smile,Big,None,Cheeks,None,Blue,White,Mild,Y
+John Joyce,340,0.486,PA,13,R,M,0,MDark BlondeReceding HairlineProminentSmirkNormalNoneNormalNoneGreenWhiteYes,Dark Blonde,Receding Hairline,Prominent,Smirk,Normal,None,Normal,None,Green,White,Yes,Y
+Guy Reschenthaler,341,0.463,PA,14,R,M,0,MLight BrownGeneric ShortNormalBig SmileNormalNoneNormalNoneBlueWhiteYes,Light Brown,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Blue,White,Yes,Y
+Glenn Thompson,342,0.803,PA,15,R,M,0,MLight GrayBaldNormalSmirkNormalNoneCheeksNoneBlueOrangeYes,Light Gray,Bald,Normal,Smirk,Normal,None,Cheeks,None,Blue,Orange,Yes,Y
+Mike Kelly,343,0.592,PA,16,R,M,0,MGrayReceding HairlineProminentNormalNormalNoneNormalNoneBlueWhiteYes,Gray,Receding Hairline,Prominent,Normal,Normal,None,Normal,None,Blue,White,Yes,Y
+Conor Lamb,344,0.823,PA,17,D,M,0,MBrownGeneric ShortNormalNormalNormalNoneChinNoneBlueWhiteNo,Brown,Generic Short,Normal,Normal,Normal,None,Chin,None,Blue,White,No,Y
+Mike Doyle,345,0.602,PA,18,D,M,0,MGrayReceding HairlineNormalNo SmileBigNoneNormalNoneBlueWhiteYes,Gray,Receding Hairline,Normal,No Smile,Big,None,Normal,None,Blue,White,Yes,Y
+Pat Toomey,515,0.789,PA,SEN,R,M,0,MDark BrownReceding HairlineNormalSmirkNormalNoneNormalNonegreyWhiteYes,Dark Brown,Receding Hairline,Normal,Smirk,Normal,None,Normal,None,grey,White,Yes,Y
+Bob Casey,615,0.67,PA,SEN,D,M,0,MGrayBaldProminentBig SmileNormalNoneNormalNoneBrownWhitemild,Gray,Bald,Prominent,Big Smile,Normal,None,Normal,None,Brown,White,mild,Y
+Jenniffer González-Colón,346,0.4,PR,1,R,F,0,FDark BlondeFemale LongNormalBig SmileNormalNoneNormalNoneBrownWhiteNo,Dark Blonde,Female Long,Normal,Big Smile,Normal,None,Normal,None,Brown,White,No,Y
+David Cicilline,347,0.724,RI,1,D,M,0,MDark GrayReceding HairlineNormalBig SmileBigNoneCheeksNoneHazelWhiteYes,Dark Gray,Receding Hairline,Normal,Big Smile,Big,None,Cheeks,None,Hazel,White,Yes,Y
+James Langevin,348,0.633,RI,2,D,M,0,MDark BlondeReceding HairlineNormalBig SmileNormalNoneNormalGlassesBlueWhiteYes,Dark Blonde,Receding Hairline,Normal,Big Smile,Normal,None,Normal,Glasses,Blue,White,Yes,Y
+Sheldon Whitehouse,518,0.761,RI,SEN,D,M,0,MGrayGeneric ShortNormalSmirkNormalNoneNormalNoneBrownWhiteYes,Gray,Generic Short,Normal,Smirk,Normal,None,Normal,None,Brown,White,Yes,Y
+Jack Reed,617,0.592,RI,SEN,D,M,0,MLight GrayGeneric Male MediumNormalSmirkBigNoneCheeksNonehazelwhiteMild,Light Gray,Generic Male Medium,Normal,Smirk,Big,None,Cheeks,None,hazel,white,Mild,Y
+Nancy Mace,349,0.803,SC,1,R,F,0,FBrownFemale LongNormalBig SmileNormalNoneNormalNoneBlueWhiteNo,Brown,Female Long,Normal,Big Smile,Normal,None,Normal,None,Blue,White,No,Y
+Joe Wilson,350,0.595,SC,2,R,M,0,MGrayReceding HairlineNormalSmirkBigNoneNormalBigBlueWhiteYes,Gray,Receding Hairline,Normal,Smirk,Big,None,Normal,Big,Blue,White,Yes,Y
+Jeff Duncan,351,0.483,SC,3,R,M,0,MLight BrownReceding HairlineProminentBig SmileBigNoneCheeksNoneBlueWhiteNo,Light Brown,Receding Hairline,Prominent,Big Smile,Big,None,Cheeks,None,Blue,White,No,Y
+William Timmons,352,0.49,SC,4,R,M,0,MBrownBaldNormalNormalNormalBeardNormalNoneBlueWhiteNo,Brown,Bald,Normal,Normal,Normal,Beard,Normal,None,Blue,White,No,Y
+Ralph Norman,353,0.497,SC,5,R,M,0,MGrayGeneric Male MediumNormalSmirkBigNoneCheeksNoneGreenOrangeYes,Gray,Generic Male Medium,Normal,Smirk,Big,None,Cheeks,None,Green,Orange,Yes,Y
+Jim Clyburn,354,0.82,SC,6,D,M,0,MGrayReceding HairlineNormalBig SmileNormalNoneNormalGlassesBrownBlackYes,Gray,Receding Hairline,Normal,Big Smile,Normal,None,Normal,Glasses,Brown,Black,Yes,Y
+Tom Rice,355,0.769,SC,7,R,M,0,MDark GrayGeneric ShortProminentBig SmileNormalNoneCheeksNoneHazelWhiteMild,Dark Gray,Generic Short,Prominent,Big Smile,Normal,None,Cheeks,None,Hazel,White,Mild,Y
+Tim Scott,620,0.872,SC,SEN,R,M,0,MNoneBaldProminentBig SmileNormalNoneCheeksNoneBrownBlackno,None,Bald,Prominent,Big Smile,Normal,None,Cheeks,None,Brown,Black,no,Y
+Lindsey Graham,519,0.862,SC,SEN,R,M,0,MGrayGeneric ShortNormalBig SmileBigNoneCheeksNoneBlueOrangeNo,Gray,Generic Short,Normal,Big Smile,Big,None,Cheeks,None,Blue,Orange,No,Y
+Dusty Johnson,356,0.82,SD,1,R,M,0,MRedGeneric ShortNormalNormalNormalNoneNormalGlassesHazelWhiteNo,Red,Generic Short,Normal,Normal,Normal,None,Normal,Glasses,Hazel,White,No,Y
+John Thune,521,0.665,SD,SEN,R,M,0,MGrayGeneric Male MediumNormalBig SmileNormalNoneChinNoneGreyOrangeMild,Gray,Generic Male Medium,Normal,Big Smile,Normal,None,Chin,None,Grey,Orange,Mild,Y
+Mike Rounds,622,0.518,SD,SEN,R,M,0,MDark BrownGeneric Male MediumNormalBig SmileBigNoneNormalNoneBrownwhitemild,Dark Brown,Generic Male Medium,Normal,Big Smile,Big,None,Normal,None,Brown,white,mild,Y
+Diana Harshbarger,357,0.486,TN,1,R,F,0,FBrownFemale LongNormalNormalNormalNoneNormalNoneGreenOrangeNo,Brown,Female Long,Normal,Normal,Normal,None,Normal,None,Green,Orange,No,Y
+Tim Burchett,358,0.378,TN,2,R,M,0,MBrownGeneric ShortNormalNormalBigNoneChinNoneBlueWhiteMild,Brown,Generic Short,Normal,Normal,Big,None,Chin,None,Blue,White,Mild,Y
+Chuck Fleischmann,359,0.422,TN,3,R,M,0,MLight BrownGeneric Male MediumNormalSmirkBigNoneNormalNoneGreenWhiteMild,Light Brown,Generic Male Medium,Normal,Smirk,Big,None,Normal,None,Green,White,Mild,Y
+Scott DesJarlais,360,0.469,TN,4,R,M,0,MGrayBaldNormalNormalBigNoneNormalNoneBlueWhiteYes,Gray,Bald,Normal,Normal,Big,None,Normal,None,Blue,White,Yes,Y
+Jim Cooper,361,0.629,TN,5,D,M,0,MGrayReceding HairlineNormalNo SmileBigNoneChinGlassesBrownTanMild,Gray,Receding Hairline,Normal,No Smile,Big,None,Chin,Glasses,Brown,Tan,Mild,Y
+John Rose,362,0.701,TN,6,R,M,0,MDark BlondeReceding HairlineNormalNormalNormalNoneNormalGlassesBlueWhiteMild,Dark Blonde,Receding Hairline,Normal,Normal,Normal,None,Normal,Glasses,Blue,White,Mild,Y
+Mark E. Green,363,0.697,TN,7,R,M,0,MDark BrownGeneric ShortProminentThin LipsBigNoneChinNoneHazelWhiteMild,Dark Brown,Generic Short,Prominent,Thin Lips,Big,None,Chin,None,Hazel,White,Mild,Y
+David Kustoff,364,0.415,TN,8,R,M,0,MDark BrownGeneric ShortProminentNormalBigNoneChinNoneHazelWhiteYes,Dark Brown,Generic Short,Prominent,Normal,Big,None,Chin,None,Hazel,White,Yes,Y
+Steve Cohen,365,0.68,TN,9,D,M,0,MGrayBaldNormalNormalNormalNoneNormalGlassesBlueWhiteYes,Gray,Bald,Normal,Normal,Normal,None,Normal,Glasses,Blue,White,Yes,Y
+Marsha Blackburn,524,0.72,TN,SEN,R,F,0,FBlondeFemale LongNormalNormalNormalNoneCheeksNoneBlue-greyWhiteMild,Blonde,Female Long,Normal,Normal,Normal,None,Cheeks,None,Blue-grey,White,Mild,Y
+Bill Hagerty,624,0.505,TN,SEN,R,M,0,MDark BrownGeneric Male MediumProminentSerious SmileBigNoneCheeksNoneGreyOrangeMild,Dark Brown,Generic Male Medium,Prominent,Serious Smile,Big,None,Cheeks,None,Grey,Orange,Mild,Y
+Louie Gohmert,366,0.731,TX,1,R,M,0,MGrayBaldNormalThin LipsBigNoneChinNoneHazelWhiteMild,Gray,Bald,Normal,Thin Lips,Big,None,Chin,None,Hazel,White,Mild,Y
+Dan Crenshaw,367,0.646,TX,2,R,M,0,MBrownGeneric Male MediumNormalNormalNormalBeardNormalEye PatchBrownWhiteNo,Brown,Generic Male Medium,Normal,Normal,Normal,Beard,Normal,Eye Patch,Brown,White,No,Y
+Van Taylor,368,0.51,TX,3,R,M,0,MDark GrayGeneric ShortProminentBig SmileBigNoneCheeksNoneGreyWhiteYes,Dark Gray,Generic Short,Prominent,Big Smile,Big,None,Cheeks,None,Grey,White,Yes,Y
+Pat Fallon,369,0.388,TX,4,R,M,0,MBrownGeneric ShortNormalNormalNormalNoneNormalNoneGreenWhiteNo,Brown,Generic Short,Normal,Normal,Normal,None,Normal,None,Green,White,No,Y
+Lance Gooden,370,0.401,TX,5,R,M,0,MBlackReceding HairlineNormalBig SmileNormalNoneNormalNoneBrownWhiteNo,Black,Receding Hairline,Normal,Big Smile,Normal,None,Normal,None,Brown,White,No,Y
+Jake Ellzey,371,0.4,TX,6,R,M,0,MBrownBaldProminentNormalNormalNoneNormalNoneBrownWhiteNo,Brown,Bald,Prominent,Normal,Normal,None,Normal,None,Brown,White,No,Y
+Lizzie Fletcher,372,0.626,TX,7,D,F,0,FDark BlondeFemale LongNormalNormalNormalNoneNormalNoneGreenWhiteNo,Dark Blonde,Female Long,Normal,Normal,Normal,None,Normal,None,Green,White,No,Y
+Kevin Brady,373,0.469,TX,8,R,M,0,MNoneBaldNormalSmirkNormalNoneNormalNoneGreenWhiteYes,None,Bald,Normal,Smirk,Normal,None,Normal,None,Green,White,Yes,Y
+Al Green,374,0.697,TX,9,D,M,0,MBlackGeneric ShortNormalNormalNormalBeardNormalNoneBrownBlackYes,Black,Generic Short,Normal,Normal,Normal,Beard,Normal,None,Brown,Black,Yes,Y
+Michael McCaul,375,0.51,TX,10,R,M,0,MGrayGeneric ShortNormalNormalNormalNoneChinNoneBlueWhiteNo,Gray,Generic Short,Normal,Normal,Normal,None,Chin,None,Blue,White,No,Y
+August Pfluger,376,0.398,TX,11,R,M,0,MDark BrownReceding HairlineNormalSmirkBigNoneChinNoneBlueWhiteMild,Dark Brown,Receding Hairline,Normal,Smirk,Big,None,Chin,None,Blue,White,Mild,Y
+Kay Granger,377,0.503,TX,12,R,F,0,FRedGeneric ShortNormalThin LipsNormalNoneNormalNoneBlueWhiteYes,Red,Generic Short,Normal,Thin Lips,Normal,None,Normal,None,Blue,White,Yes,Y
+Ronny Jackson,378,0.571,TX,13,R,M,0,MDark GrayGeneric ShortNormalThin LipsNormalNoneChinNoneBlueWhiteMild,Dark Gray,Generic Short,Normal,Thin Lips,Normal,None,Chin,None,Blue,White,Mild,Y
+Randy Weber,379,0.395,TX,14,R,M,0,MRedReceding HairlineNormalBig SmileNormalNoneCheeksNoneHazelWhiteYes,Red,Receding Hairline,Normal,Big Smile,Normal,None,Cheeks,None,Hazel,White,Yes,Y
+Vicente Gonzalez,380,0.759,TX,15,D,M,0,MDark BrownGeneric Male MediumNormalNormalNormalNoneCheeksNoneHazelWhiteNo,Dark Brown,Generic Male Medium,Normal,Normal,Normal,None,Cheeks,None,Hazel,White,No,Y
+Veronica Escobar,381,0.646,TX,16,D,F,0,FDark BrownFemale LongNormalNormalNormalNoneCheeksNoneBrownBrownNo,Dark Brown,Female Long,Normal,Normal,Normal,None,Cheeks,None,Brown,Brown,No,Y
+Pete Sessions,382,0.483,TX,17,R,M,0,MGrayGeneric ShortNormalThin LipsBigNoneNormalNoneBlueWhiteMild,Gray,Generic Short,Normal,Thin Lips,Big,None,Normal,None,Blue,White,Mild,Y
+Sheila Jackson Lee,383,0.84,TX,18,D,F,0,FBlackFemale ShortNormalNormalNormalNoneCheeksNoneBrownBlackMild,Black,Female Short,Normal,Normal,Normal,None,Cheeks,None,Brown,Black,Mild,Y
+Jodey Arrington,384,0.398,TX,19,R,M,0,MDark BrownGeneric ShortNormalThin LipsNormalNoneNormalNoneBrownWhiteMild,Dark Brown,Generic Short,Normal,Thin Lips,Normal,None,Normal,None,Brown,White,Mild,Y
+Joaquin Castro,385,0.602,TX,20,D,M,0,MBlackReceding HairlineProminentNormalNormalNoneNormalNoneBrownTanNo,Black,Receding Hairline,Prominent,Normal,Normal,None,Normal,None,Brown,Tan,No,Y
+Chip Roy,386,0.551,TX,21,R,M,0,MGrayBaldNormalNormalNormalNoneCheeksNoneBlueWhiteNo,Gray,Bald,Normal,Normal,Normal,None,Cheeks,None,Blue,White,No,Y
+Troy Nehls,387,0.439,TX,22,R,M,0,MBlondeGeneric ShortNormalNo SmileBigNoneCheeksNoneBlueWhiteNo,Blonde,Generic Short,Normal,No Smile,Big,None,Cheeks,None,Blue,White,No,Y
+Tony Gonzales,388,0.612,TX,23,R,M,0,MBlackGeneric ShortNormalSerious SmileBigNoneChinNoneBrownWhiteNo,Black,Generic Short,Normal,Serious Smile,Big,None,Chin,None,Brown,White,No,Y
+Beth Van Duyne,389,0.548,TX,24,R,F,0,FLight BlondeFemale LongProminentNormalBigNoneNormalNoneBrownWhiteNo,Light Blonde,Female Long,Prominent,Normal,Big,None,Normal,None,Brown,White,No,Y
+Roger Williams,390,0.534,TX,25,R,M,0,MGrayGeneric Male MediumNormalThin LipsNormalNoneNormalNoneGreenWhiteYes,Gray,Generic Male Medium,Normal,Thin Lips,Normal,None,Normal,None,Green,White,Yes,Y
+Michael C. Burgess,391,0.432,TX,26,R,M,0,MBrownGeneric ShortNormalNormalNormalNoneNormalGlassesHazelWhiteYes,Brown,Generic Short,Normal,Normal,Normal,None,Normal,Glasses,Hazel,White,Yes,Y
+Michael Cloud,392,0.463,TX,27,R,M,0,MBrownGeneric ShortNormalNormalNormalGoateeNormalNoneBlueWhiteNo,Brown,Generic Short,Normal,Normal,Normal,Goatee,Normal,None,Blue,White,No,Y
+Henry Cuellar,393,0.544,TX,28,D,M,0,MBlackGeneric ShortProminentNormalNormalNoneNormalNoneBrownTanYes,Black,Generic Short,Prominent,Normal,Normal,None,Normal,None,Brown,Tan,Yes,Y
+Sylvia Garcia,394,0.609,TX,29,D,F,0,FBlondeFemale LongNormalBig SmileBigNoneCheeksNoneHazelWhiteYes,Blonde,Female Long,Normal,Big Smile,Big,None,Cheeks,None,Hazel,White,Yes,Y
+Eddie Bernice Johnson,395,0.816,TX,30,D,F,0,FBrownGeneric ShortNormalNormalNormalNoneNormalNoneBrownBlackYes,Brown,Generic Short,Normal,Normal,Normal,None,Normal,None,Brown,Black,Yes,Y
+John Carter,396,0.503,TX,31,R,M,0,MLight GrayGeneric ShortNormalNormalNormalNoneChinNoneBlueOrangeYes,Light Gray,Generic Short,Normal,Normal,Normal,None,Chin,None,Blue,Orange,Yes,Y
+Colin Allred,397,0.639,TX,32,D,M,0,MBlackBaldNormalNormalNormalBeardNormalNoneBrownBlackNo,Black,Bald,Normal,Normal,Normal,Beard,Normal,None,Brown,Black,No,Y
+Marc Veasey,398,0.463,TX,33,D,M,0,MBlackGeneric ShortProminentNormalNormalNoneCheeksNoneBrownBlackMild,Black,Generic Short,Prominent,Normal,Normal,None,Cheeks,None,Brown,Black,Mild,Y
+Filemon Vela Jr.,399,0.673,TX,34,D,M,0,MBrownGeneric ShortNormalNormalNormalNoneNormalNoneBlueOrangeYes,Brown,Generic Short,Normal,Normal,Normal,None,Normal,None,Blue,Orange,Yes,Y
+Lloyd Doggett,400,0.524,TX,35,D,M,0,MGrayGeneric ShortNormalNormalNormalNoneNormalNoneBlueWhiteYes,Gray,Generic Short,Normal,Normal,Normal,None,Normal,None,Blue,White,Yes,Y
+Brian Babin,401,0.452,TX,36,R,M,0,MDark BlondeGeneric Male MediumNormalSmirkBigNoneChinNoneBlueWhiteYes,Dark Blonde,Generic Male Medium,Normal,Smirk,Big,None,Chin,None,Blue,White,Yes,Y
+Ted Cruz,526,0.936,TX,SEN,R,M,0,MDark BrownReceding HairlineProminentNo SmileBigBeardChinNoneHazelTanNo,Dark Brown,Receding Hairline,Prominent,No Smile,Big,Beard,Chin,None,Hazel,Tan,No,Y
+John Cornyn,625,0.784,TX,SEN,R,M,0,MWhiteBaldProminentBig SmileBigNoneChinNoneblue-greywhitemild,White,Bald,Prominent,Big Smile,Big,None,Chin,None,blue-grey,white,mild,Y
+Blake Moore,402,0.714,UT,1,R,M,0,MBlondeGeneric ShortNormalBig SmileNormalNoneNormalNoneBlue-GreyWhiteNo,Blonde,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Blue-Grey,White,No,Y
+Chris Stewart,403,0.493,UT,2,R,M,0,MBrownReceding HairlineNormalSmirkNormalNoneNormalNoneBlueWhiteNo,Brown,Receding Hairline,Normal,Smirk,Normal,None,Normal,None,Blue,White,No,Y
+John Curtis,404,0.476,UT,3,R,M,0,MGrayReceding HairlineNormalBig SmileNormalNoneNormalNoneHazelWhiteYes,Gray,Receding Hairline,Normal,Big Smile,Normal,None,Normal,None,Hazel,White,Yes,Y
+Burgess Owens,405,0.769,UT,4,R,M,0,MBlackGeneric ShortNormalBig SmileNormalNoneNormalNoneBrownBlackYes,Black,Generic Short,Normal,Big Smile,Normal,None,Normal,None,Brown,Black,Yes,Y
+Mitt Romney,528,0.894,UT,SEN,R,M,0,MDark GrayReceding HairlineProminentBig SmileNormalNoneNormalNoneAmberWhitemild,Dark Gray,Receding Hairline,Prominent,Big Smile,Normal,None,Normal,None,Amber,White,mild,Y
+Mike Lee,627,0.794,UT,SEN,R,M,0,MDark BrownReceding HairlineNormalSmirkNormalNoneCheeksNoneHazelwhiteno,Dark Brown,Receding Hairline,Normal,Smirk,Normal,None,Cheeks,None,Hazel,white,no,Y
+Rob Wittman,407,0.541,VA,1,R,M,0,MGrayGeneric ShortProminentSmirkNormalNoneNormalNoneBlueWhiteMild,Gray,Generic Short,Prominent,Smirk,Normal,None,Normal,None,Blue,White,Mild,Y
+Elaine Luria,408,0.762,VA,2,D,F,0,FBrownFemale LongNormalBig SmileNormalNoneNormalNoneGreenWhiteYes,Brown,Female Long,Normal,Big Smile,Normal,None,Normal,None,Green,White,Yes,Y
+Bobby Scott,409,0.602,VA,3,D,M,0,MGrayGeneric Male MediumNormalNormalNormalMoustacheNormalGlassesBrownBrownYes,Gray,Generic Male Medium,Normal,Normal,Normal,Moustache,Normal,Glasses,Brown,Brown,Yes,Y
+Donald McEachin,410,0.537,VA,4,D,M,0,MGrayGeneric ShortNormalBig SmileNormalNoneNormalGlassesBrownBlackYes,Gray,Generic Short,Normal,Big Smile,Normal,None,Normal,Glasses,Brown,Black,Yes,Y
+Bob Good,411,0.694,VA,5,R,M,0,MBlackReceding HairlineNormalNormalNormalNoneNormalNoneBlueWhiteNo,Black,Receding Hairline,Normal,Normal,Normal,None,Normal,None,Blue,White,No,Y
+Ben Cline,412,0.51,VA,6,R,M,0,MDark GrayGeneric ShortNormalNormalNormalNoneNormalNoneBlueWhiteMild,Dark Gray,Generic Short,Normal,Normal,Normal,None,Normal,None,Blue,White,Mild,Y
+Abigail Spanberger,413,0.81,VA,7,D,F,0,FLight BlondeFemale LongNormalNormalNormalNoneNormalNoneGreenWhiteNo,Light Blonde,Female Long,Normal,Normal,Normal,None,Normal,None,Green,White,No,Y
+Don Beyer,414,0.592,VA,8,D,M,0,MDark BlondeReceding HairlineNormalNormalNormalNoneChinNoneBlueWhiteMild,Dark Blonde,Receding Hairline,Normal,Normal,Normal,None,Chin,None,Blue,White,Mild,Y
+Morgan Griffith,415,0.514,VA,9,R,M,0,MDark BlondeReceding HairlineNormalNormalNormalGoateeNormalNoneBlueWhiteYes,Dark Blonde,Receding Hairline,Normal,Normal,Normal,Goatee,Normal,None,Blue,White,Yes,Y
+Jennifer Wexton,416,0.68,VA,10,D,F,0,FBlondeFemale LongNormalNormalNormalNoneNormalNoneBrownWhiteNo,Blonde,Female Long,Normal,Normal,Normal,None,Normal,None,Brown,White,No,Y
+Gerry Connolly,417,0.554,VA,10,D,M,0,MWhiteReceding HairlineNormalNormalNormalMoustacheNormalGlassesBrownWhiteYes,White,Receding Hairline,Normal,Normal,Normal,Moustache,Normal,Glasses,Brown,White,Yes,Y
+Tim Kaine,530,0.807,VA,SEN,D,M,0,MGrayReceding HairlineProminentThin LipsBigNoneCheeksNoneHazelWhitemild,Gray,Receding Hairline,Prominent,Thin Lips,Big,None,Cheeks,None,Hazel,White,mild,Y
+Mark Warner,529,0.697,VA,SEN,D,M,0,MLight BrownGeneric ShortProminentSmirkNormalNoneNormalNoneBlue-GreyWhiteNo,Light Brown,Generic Short,Prominent,Smirk,Normal,None,Normal,None,Blue-Grey,White,No,Y
+Stacey Plaskett,418,0.4,VI,1,D,F,0,FBrownFemale LongNormalBig SmileNormalNoneNormalNoneBrownBlackNo,Brown,Female Long,Normal,Big Smile,Normal,None,Normal,None,Brown,Black,No,Y
+Peter Welch,406,0.677,VT,1,D,M,0,MGrayBaldNormalBig SmileBigNoneNormalGlassesBlueWhiteYes,Gray,Bald,Normal,Big Smile,Big,None,Normal,Glasses,Blue,White,Yes,Y
+Bernie Sanders,531,0.936,VT,SEN,D,M,0,MWhiteBaldNormalBig SmileBigNoneChinGlassesBrownWhiteYes,White,Bald,Normal,Big Smile,Big,None,Chin,Glasses,Brown,White,Yes,Y
+Patrick Leahy,532,0.803,VT,SEN,D,M,0,MWhiteBaldNormalBig SmileNormalNoneNormalGlassesBlueWhiteYes,White,Bald,Normal,Big Smile,Normal,None,Normal,Glasses,Blue,White,Yes,Y
+Suzan DelBene,419,0.537,WA,1,D,F,0,FBrownFemale BobNormalNormalNormalNoneNormalGlassesBrownWhiteNo,Brown,Female Bob,Normal,Normal,Normal,None,Normal,Glasses,Brown,White,No,Y
+Rick Larsen,420,0.459,WA,2,D,M,0,MGrayReceding HairlineProminentNormalNormalNoneNormalNoneBlueWhiteNo,Gray,Receding Hairline,Prominent,Normal,Normal,None,Normal,None,Blue,White,No,Y
+Jaime Herrera Beutler,421,0.66,WA,3,R,F,0,FBrownFemale BobNormalBig SmileNormalNoneNormalNoneBrownTanNo,Brown,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Brown,Tan,No,Y
+Dan Newhouse,422,0.602,WA,4,R,M,0,MWhiteReceding HairlineNormalNormalNormalBeardNormalGlassesBlueWhiteYes,White,Receding Hairline,Normal,Normal,Normal,Beard,Normal,Glasses,Blue,White,Yes,Y
+Cathy McMorris Rodgers,423,0.656,WA,5,R,F,0,FBrownFemale BobNormalBig SmileNormalNoneCheeksNoneBrownWhiteMild,Brown,Female Bob,Normal,Big Smile,Normal,None,Cheeks,None,Brown,White,Mild,Y
+Derek Kilmer,424,0.473,WA,6,D,M,0,MBlondeGeneric ShortNormalNormalNormalNoneNormalGlassesBlueWhiteYes,Blonde,Generic Short,Normal,Normal,Normal,None,Normal,Glasses,Blue,White,Yes,Y
+Pramila Jayapal,425,0.789,WA,7,D,F,0,FBlackFemale LongNormalSmirkNormalNoneNormalNoneBrownBrownNo,Black,Female Long,Normal,Smirk,Normal,None,Normal,None,Brown,Brown,No,Y
+Kim Schrier,426,0.578,WA,8,D,F,0,FLight BrownFemale BobNormalBig SmileNormalNoneChinNoneBlue-GreyWhiteMild,Light Brown,Female Bob,Normal,Big Smile,Normal,None,Chin,None,Blue-Grey,White,Mild,Y
+Adam Smith,427,0.847,WA,9,D,M,0,MGrayBaldNormalThin LipsBigNoneCheeksNoneBrownWhiteMild,Gray,Bald,Normal,Thin Lips,Big,None,Cheeks,None,Brown,White,Mild,Y
+Marilyn Strickland,428,0.554,WA,10,D,F,0,FBlackFemale LongNormalNormalNormalNoneNormalGlassesBrownBlackNo,Black,Female Long,Normal,Normal,Normal,None,Normal,Glasses,Brown,Black,No,Y
+Patty Murray,633,0.697,WA,SEN,D,F,0,FLight BlondeFemale BobNormalBig SmileNormalNoneNormalGlassesBrownwhitemild,Light Blonde,Female Bob,Normal,Big Smile,Normal,None,Normal,Glasses,Brown,white,mild,Y
+Maria Cantwell,634,0.647,WA,SEN,D,F,0,FDark BrownFemale LongNormalBig SmileBigNoneNormalNoneblue-greywhiteno,Dark Brown,Female Long,Normal,Big Smile,Big,None,Normal,None,blue-grey,white,no,Y
+Bryan Steil,432,0.541,WI,1,R,M,0,MDark BrownGeneric Male MediumNormalNormalNormalNoneNormalNoneBlueWhiteNo,Dark Brown,Generic Male Medium,Normal,Normal,Normal,None,Normal,None,Blue,White,No,Y
+Mark Pocan,433,0.711,WI,2,D,M,0,MGrayBaldNormalNormalNormalGoateeNormalNoneGreenWhiteNo,Gray,Bald,Normal,Normal,Normal,Goatee,Normal,None,Green,White,No,Y
+Ron Kind,434,0.697,WI,3,D,M,0,MDark GrayGeneric ShortNormalThin LipsBigNoneNormalNoneHazelTanNo,Dark Gray,Generic Short,Normal,Thin Lips,Big,None,Normal,None,Hazel,Tan,No,Y
+Gwen Moore,435,0.721,WI,4,D,F,0,FBlackFemale LongNormalNormalNormalNoneNormalGlassesBrownBlackYes,Black,Female Long,Normal,Normal,Normal,None,Normal,Glasses,Brown,Black,Yes,Y
+Scott Fitzgerald,436,0.418,WI,5,R,M,0,MLight BrownReceding HairlineNormalSmirkBigNoneNormalBigBlueWhiteYes,Light Brown,Receding Hairline,Normal,Smirk,Big,None,Normal,Big,Blue,White,Yes,Y
+Glenn Grothman,437,0.486,WI,6,R,M,0,MLight GrayGeneric Male MediumNormalBig SmileNormalNoneNormalGlassesBlueWhiteYes,Light Gray,Generic Male Medium,Normal,Big Smile,Normal,None,Normal,Glasses,Blue,White,Yes,Y
+Tom Tiffany,438,0.537,WI,7,R,M,0,MBrownReceding HairlineProminentNormalBigNoneCheeksGlassesBrownWhiteMild,Brown,Receding Hairline,Prominent,Normal,Big,None,Cheeks,Glasses,Brown,White,Mild,Y
+Mike Gallagher,439,0.551,WI,8,R,M,0,MDark BrownGeneric ShortProminentThin LipsNormalNoneNormalNoneAmberWhiteMild,Dark Brown,Generic Short,Prominent,Thin Lips,Normal,None,Normal,None,Amber,White,Mild,Y
+Ron Johnson,637,0.821,WI,SEN,R,M,0,MWhiteReceding HairlineNormalSerious SmileBigNoneNormalNoneBlue-GreyWhiteMild,White,Receding Hairline,Normal,Serious Smile,Big,None,Normal,None,Blue-Grey,White,Mild,Y
+Tammy Baldwin,536,0.688,WI,SEN,D,F,0,FDark BlondeFemale ShortNormalSerious SmileNormalNoneNormalNoneblue-greyWhitemild,Dark Blonde,Female Short,Normal,Serious Smile,Normal,None,Normal,None,blue-grey,White,mild,Y
+David McKinley,429,0.548,WV,1,R,M,0,MDark GrayReceding HairlineNormalNormalNormalMoustacheNormalNoneBrownWhiteNo,Dark Gray,Receding Hairline,Normal,Normal,Normal,Moustache,Normal,None,Brown,White,No,Y
+Alex Mooney,430,0.616,WV,2,R,M,0,MDark GrayGeneric Male MediumNormalNormalBigNoneCheeksNoneBrownWhiteNo,Dark Gray,Generic Male Medium,Normal,Normal,Big,None,Cheeks,None,Brown,White,No,Y
+Carol Miller,431,0.677,WV,3,R,F,0,FDark BlondeFemale BobNormalSerious SmileBigNoneNormalGlassesBlueWhiteYes,Dark Blonde,Female Bob,Normal,Serious Smile,Big,None,Normal,Glasses,Blue,White,Yes,Y
+Joe Manchin,537,0.872,WV,SEN,D,M,0,MDark GrayGeneric Male MediumNormalBig SmileBigNoneChinNoneBrownOrangeMild,Dark Gray,Generic Male Medium,Normal,Big Smile,Big,None,Chin,None,Brown,Orange,Mild,Y
+Shelley Moore Capito,538,0.739,WV,SEN,R,F,0,FDark BlondeFemale BobNormalBig SmileNormalNoneNormalNoneblue-greyWhitemild,Dark Blonde,Female Bob,Normal,Big Smile,Normal,None,Normal,None,blue-grey,White,mild,Y
+Liz Cheney,440,0.867,WY,1,R,F,0,FLight BlondeFemale BobNormalNormalBigNoneNormalGlassesBlueOrangeMild,Light Blonde,Female Bob,Normal,Normal,Big,None,Normal,Glasses,Blue,Orange,Mild,Y
+John Barrasso,639,0.628,WY,SEN,R,M,0,MDark GrayGeneric Male MediumNormalNormalNormalNoneNormalGlasseshazelwhitemild,Dark Gray,Generic Male Medium,Normal,Normal,Normal,None,Normal,Glasses,hazel,white,mild,Y
+Cynthia Lummis,640,0.596,WY,SEN,R,F,0,FBlondeFemale BobNormalBig SmileNormalNoneNormalNoneAmberOrangeno,Blonde,Female Bob,Normal,Big Smile,Normal,None,Normal,None,Amber,Orange,no,Y
+Aarika Rhodes,641,0,CA,30,D,F,0,,,,,,,,,,,,,N
+Matt West,642,0,OR,6,D,M,0,,,,,,,,,,,,,N
+Wendy Hamilton,643,0,DC,1,D,F,0,,,,,,,,,,,,,N
+Matthew Diemer,644,0,OH,13,D,M,0,,,,,,,,,,,,,N
