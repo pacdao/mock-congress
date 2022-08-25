@@ -111,7 +111,6 @@ const HomePage: React.FC = () => {
   const mintBatch = async (batchNum: number | undefined) => {
     try {
       if (signerContract && signer && batchNum !== undefined && batchPrice !== undefined) {
-        console.log("---> initiate get contract min_price");
         const batchPrice: BigNumber = await signerContract.mint_batch_price(batchNum, address, { gasLimit: 10000000 });
         const value = batchPrice;
         console.log("---> initiate mint_batch with", value);

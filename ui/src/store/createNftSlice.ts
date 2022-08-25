@@ -48,8 +48,8 @@ const createNftSlice = (set: SetState<State>, get: GetState<State>) => ({
     redeemableBalances: "",
 
     userAddress: "",
-    minPrice: BigNumber.from(0),
-    minBidIncrement: BigNumber.from(0),
+    minPrice: BigNumber.from("10000000000000000"),
+    minBidIncrement: BigNumber.from("10000000000000000"),
     minBidIncrementString: "0.01",
     contract: null,
     signerContract: null,
@@ -90,8 +90,8 @@ const createNftSlice = (set: SetState<State>, get: GetState<State>) => ({
           fetchedAuctionStatuses,
           fetchedSeatWinners,
           fetchedMintedSeats,
-          fetchedMinPrice,
-          fetchedMinIncrement,
+          // fetchedMinPrice,
+          // fetchedMinIncrement,
           fetchedUserBids,
           fetchedBalances,
         ] = await Promise.all([
@@ -100,8 +100,8 @@ const createNftSlice = (set: SetState<State>, get: GetState<State>) => ({
           contract?.auction_statuses(options),
           contract?.seat_winners(options),
           contract?.mint_statuses(options),
-          contract?.min_price(options),
-          contract?.auction_interval(options),
+          // contract?.min_price(options),
+          // contract?.auction_interval(options),
           userAddress ? contract?.user_bids(userAddress, options) : [],
           userAddress ? contract?.redeemable_balance(userAddress, options) : [],
         ]);
@@ -123,9 +123,9 @@ const createNftSlice = (set: SetState<State>, get: GetState<State>) => ({
             state.nft.seatsMinted = fetchedMintedSeats;
             state.nft.userBids = parsedUserBids;
             state.nft.redeemableBalances = userRedeemableBalances;
-            state.nft.minPrice = fetchedMinPrice;
-            state.nft.minBidIncrement = fetchedMinIncrement;
-            state.nft.minBidIncrementString = ethers.utils.formatEther(fetchedMinIncrement);
+            // state.nft.minPrice = fetchedMinPrice;
+            // state.nft.minBidIncrement = fetchedMinIncrement;
+            state.nft.minBidIncrementString = ethers.utils.formatEther(state.nft.minBidIncrement);
             state.nft.hasLoaded = true;
           })
         );

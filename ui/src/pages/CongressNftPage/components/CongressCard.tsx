@@ -19,6 +19,7 @@ interface Props {
 
 export const CongressCard = ({ congress }: Props) => {
   const { signer } = useWallet();
+  const minPrice = useStore((state) => state.nft.minPrice);
   const auctionStatuses = useStore((state) => state.nft.auctionStatuses);
   const signerContract = useStore((state) => state.nft.signerContract);
   const imageRef = React.useRef<HTMLImageElement>(null);
@@ -40,7 +41,6 @@ export const CongressCard = ({ congress }: Props) => {
   const startBid = async (bidPrice: string) => {
     if (signerContract && signer) {
       try {
-        const minPrice = await signerContract.min_price({ gasLimit: 10000000 });
         console.log("minPrice", minPrice.toString());
 
         // const eth = parseUnits(bidPrice, "ethers");
