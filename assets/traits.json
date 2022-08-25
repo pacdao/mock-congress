@@ -1,0 +1,239 @@
+{
+    "Party": {
+        "Democrat": 274,
+        "Republican": 263,
+        "Independent": 1
+    },
+    "Chamber": {
+        "Senate": 100,
+        "House": 438
+    },
+    "Gender": {
+        "Male": 393,
+        "Female": 144
+    },
+    "Background": {
+        "Cool-Green": 63,
+        "Green": 26,
+        "Pink": 78,
+        "Light-Grey": 18,
+        "Magenta": 17,
+        "Cool-Blue": 71,
+        "Neon-Yellow": 19,
+        "Warm-Blue": 33,
+        "Yellow-Orange": 79,
+        "Purple": 25,
+        "Turquoise": 45,
+        "Mid-Grey": 25,
+        "Dark-Grey": 25,
+        "Peach": 14
+    },
+    "Head": {
+        "Mitten Brown": 1,
+        "Blue": 62,
+        "Turquoise": 70,
+        "Yellow": 41,
+        "Red": 66,
+        "Green": 67,
+        "Brown": 16,
+        "Black": 18,
+        "Purple": 71,
+        "Pink": 36,
+        "Orange": 89,
+        "Leatherback Green": 1
+    },
+    "Wrinkles": {
+        "Heavy": 108,
+        "Light": 244
+    },
+    "Eyes": {
+        "Wide Lidded": 78,
+        "Tall Lidded": 69,
+        "Tiny": 36,
+        "Spidery": 64,
+        "Wiggly": 55,
+        "Almond": 39,
+        "Heavy Lidded": 36,
+        "Windcard": 52,
+        "Raindrop": 41,
+        "Large Wonky Round": 68
+    },
+    "Iris": {
+        "Brown": 83,
+        "Turquoise": 58,
+        "Purple": 75,
+        "Yellow": 73,
+        "Red": 24,
+        "Hazel": 65,
+        "Orange": 48,
+        "Grey": 34,
+        "Blue": 53,
+        "Green": 24,
+        "Tax the Rich Grey": 1
+    },
+    "Nose": {
+        "Orange": 74,
+        "Yellow": 37,
+        "Red": 88,
+        "Nearly Black": 71,
+        "Turquoise": 53,
+        "Blue": 61,
+        "Brown": 63,
+        "Green": 32,
+        "Grey": 31,
+        "Purple": 28
+    },
+    "Shirt": {
+        "Blue": 19,
+        "Orange": 27,
+        "White": 49,
+        "Red": 78,
+        "Black": 36,
+        "Dark Grey": 47,
+        "Yellow": 26,
+        "Pink": 45,
+        "Turquose": 24,
+        "Green": 21,
+        "Purple": 21
+    },
+    "Jacket": {
+        "Purple": 54,
+        "Green": 59,
+        "Pink": 73,
+        "Red": 113,
+        "Light Brown": 47,
+        "Turquoise": 65,
+        "Dark Blue": 38,
+        "Dark Grey": 53,
+        "Dark Brown": 31,
+        "Med Grey": 4,
+        "Med Blue": 1
+    },
+    "Tie": {
+        "Turquoise": 35,
+        "Yellow": 41,
+        "Orange": 66,
+        "Green": 43,
+        "Red": 70,
+        "Blue": 42,
+        "Grey": 43,
+        "Purple": 53
+    },
+    "Mouth Type": {
+        "Inverted Smirk": 1,
+        "Mouth Smiling": 73,
+        "Serious Smile": 92,
+        "Smirk": 83,
+        "Normal Tooth Mouth": 77,
+        "Smirk Teeth": 76,
+        "Thin Mouth": 120,
+        "Negative Mouth": 15,
+        "Inverted Smile": 1
+    },
+    "Mouth Color": {
+        "Brown": 43,
+        "Light Red": 43,
+        "Purple": 55,
+        "Dark Pink": 34,
+        "Blue": 55,
+        "Yellow": 52,
+        "Orange": 62,
+        "Turquoise": 42,
+        "Light Pink": 45,
+        "Dark Red": 32,
+        "Grey": 28,
+        "Green": 37,
+        "Red": 7,
+        "Grey Pink": 3
+    },
+    "Eyewear": {
+        "Red Heart Glasses": 31,
+        "Brown Round Glasses": 13,
+        "Grey Round Glasses": 21,
+        "Blue Round Glasses": 18,
+        "Eyepatch": 1,
+        "Dark Sunglasses": 1,
+        "Blue Round Glasses Lowered": 1,
+        "Grey Heart Glasses": 1
+    },
+    "Hairstyle": {
+        "Receding Hair": 42,
+        "Bob": 46,
+        "Generic Male": 162,
+        "Wavy Hair": 124,
+        "Head Fuzz": 73,
+        "Female Long": 59,
+        "Female Short": 31
+    },
+    "Hair Color": {
+        "White": 96,
+        "Yellow": 68,
+        "Dark Grey": 81,
+        "Black": 71,
+        "White Top": 48,
+        "Dark Brown": 69,
+        "Red": 19,
+        "Light Grey": 4,
+        "Light Brown": 53,
+        "Black Top": 23,
+        "Purple": 5
+    },
+    "Texture": {
+        "Rare": 17
+    },
+    "Cardigan": {
+        "Purple": 22,
+        "Blue": 22,
+        "Red": 26,
+        "Turquoise": 34,
+        "Yellow": 26,
+        "Light Grey": 13,
+        "Dark Grey Low Cut": 1,
+        "Light Grey Low Cut": 1
+    },
+    "Necklace": {
+        "Red": 70,
+        "Blue": 71,
+        "Gold": 2,
+        "Missing": 2
+    },
+    "Beard": {
+        "Dark Red Beard": 1,
+        "Med Orange Beard": 3,
+        "Med Brown Beard": 5,
+        "Dark Grey Beard": 7,
+        "Dark Yellow Beard": 2,
+        "Light Brown Beard": 1,
+        "Dark Orange Beard": 1,
+        "Light Yellow Beard": 1,
+        "Dark Brown Beard": 4,
+        "Med Yellow Beard": 2
+    },
+    "Whiskers": {
+        "Brown Stubbly and Long Curly": 1,
+        "Black Stubbly and Long Curly": 1,
+        "Dark Grey Stubbly": 1,
+        "Light Purple Stubbly": 1
+    },
+    "Headwear": {
+        "Turqoise Crypto Cap": 1,
+        "Green Crypto Cap": 1,
+        "Cowboy Hat": 1,
+        "Blue Crypto Cap": 1,
+        "Blue Hijab": 1,
+        "Orange Crypto Cap": 1,
+        "Purple Crypto Cap": 1,
+        "Dark Grey Crypto Cap": 1
+    },
+    "Moustache": {
+        "White": 4,
+        "Dark Grey": 4,
+        "Med Grey": 3,
+        "Light Grey": 2,
+        "Med Yellow": 1
+    },
+    "Jewelry": {
+        "Nosering": 1,
+        "Diamond Earrings": 1
+    }
+}
