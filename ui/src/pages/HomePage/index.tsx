@@ -44,6 +44,7 @@ export type Form = {
 };
 
 const MAX_BATCH_MINT = 10;
+const DEFAULT_BATCH_MINT = 1;
 
 const HomePage: React.FC = () => {
   const searchByNameInputRef = React.useRef<HTMLInputElement>(null);
@@ -90,7 +91,7 @@ const HomePage: React.FC = () => {
     if (batchNum.toString() === batchCount) {
       return;
     }
-    if (batchNum === 0){
+    if (batchNum === 0) {
       setBatchCount(batchNum.toString());
       setBatchPrice("0");
       return;
@@ -108,7 +109,7 @@ const HomePage: React.FC = () => {
       }
     } catch (error) {
       console.error(error);
-    } 
+    }
     setIsLoadingBatchPrice(false);
   }
 
@@ -199,7 +200,7 @@ const HomePage: React.FC = () => {
 
   React.useEffect(() => {
     async function setDefaultClaims() {
-      await updateBatchCount(MAX_BATCH_MINT);
+      await updateBatchCount(DEFAULT_BATCH_MINT);
     }
     setDefaultClaims();
   }, [address, contract, provider, walletLoaded, signerContract, signer]);
@@ -328,15 +329,15 @@ const HomePage: React.FC = () => {
             Quantity{" "}
             <input
               id="batchCount"
-              onChange={(e) => updateBatchCount( parseInt(e.target.value.replace(/[^0-9]/g, '')) )}
+              onChange={(e) => updateBatchCount(parseInt(e.target.value.replace(/[^0-9]/g, '')))}
               value={batchCount}
               disabled={isLoadingBatchPrice}
               style={{ width: "100px", color: "#000000", marginBottom: "0.5em" }}
             />
             <br />
-            {isLoadingBatchPrice && <ClipLoader color="#ffffff" loading={isLoadingBatchPrice} size={10}/>}
+            {isLoadingBatchPrice && <ClipLoader color="#ffffff" loading={isLoadingBatchPrice} size={10} />}
             {!isLoadingBatchPrice && (<span id="compute">Cost: {batchPrice} ETH</span>)}
-            <MintNftButton onClick={() => mintBatch(Number(batchCount))} variant="secondary" disabled={isLoadingBatchPrice || Number(batchCount)===0}>
+            <MintNftButton onClick={() => mintBatch(Number(batchCount))} variant="secondary" disabled={isLoadingBatchPrice || Number(batchCount) === 0}>
               Claim Pack
             </MintNftButton>
           </MintNftWrapper>
@@ -397,12 +398,12 @@ type WrapperProps = {
 const Wrapper = styled.div<WrapperProps>`
   @media ${device.laptop} {
     ${({ headerHeight }) => {
-      if (headerHeight) {
-        return `
+    if (headerHeight) {
+      return `
           height: calc(100vh - ${headerHeight}px - 3em);
         `;
-      }
-    }}
+    }
+  }}
     overflow: hidden;
   }
 `;
@@ -422,18 +423,18 @@ type CongressListProps = {
   headerHeight: number | null;
 };
 
-const CongressList = styled(Items)<CongressListProps>`
+const CongressList = styled(Items) <CongressListProps>`
   margin-top: 1em;
 
   @media ${device.laptop} {
     overflow-y: scroll;
     ${({ headerHeight }) => {
-      if (headerHeight) {
-        return `
+    if (headerHeight) {
+      return `
           height: calc(100vh - ${headerHeight}px - 17em);
         `;
-      }
-    }}
+    }
+  }}
   }
 `;
 
